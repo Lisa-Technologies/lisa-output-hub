@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[10],{DPtJ:function(n,_,t){"use strict";t.r(_),t.d(_,"__N_SSG",(function(){return u}));var u=!0;_.default=function(){return null}},Vbef:function(n,_,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/feed",function(){return t("DPtJ")}])}},[["Vbef",0]]]);
