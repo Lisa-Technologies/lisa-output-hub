@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://lisatech.blog</id>
+    <id>https://dev-blog.lisatech.jp/</id>
     <title>Lisa's Output Hub</title>
-    <updated>2021-11-18T02:15:18.115Z</updated>
+    <updated>2021-11-18T03:02:51.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Lisa Technologies Inc</name>
         <email>lisatech.dev@gmail.com</email>
         <uri>https://lisatech.jp/</uri>
     </author>
-    <link rel="alternate" href="https://lisatech.blog"/>
-    <link rel="self" href="https://lisatech.blog/rss/atom.xml"/>
+    <link rel="alternate" href="https://dev-blog.lisatech.jp/"/>
+    <link rel="self" href="https://dev-blog.lisatech.jp//rss/atom.xml"/>
     <subtitle>Lisa Technologies株式会社のメンバーの投稿が集まります</subtitle>
     <rights>All rights reserved 2021, Lisa Technologies Inc</rights>
     <entry>
