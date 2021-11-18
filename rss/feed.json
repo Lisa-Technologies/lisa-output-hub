@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Lisa's Output Hub",
+    "title": "Lisa Output Hub",
     "home_page_url": "https://dev-blog.lisatech.jp/",
     "feed_url": "https://dev-blog.lisatech.jp//rss/feed.json",
     "description": "Lisa Technologies株式会社のメンバーの投稿が集まります",
