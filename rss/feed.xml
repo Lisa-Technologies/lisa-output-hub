@@ -4,11 +4,18 @@
         <title>Lisa Output Hub</title>
         <link>https://dev-blog.lisatech.jp/</link>
         <description>Lisa Technologies株式会社のメンバーの投稿が集まります</description>
-        <lastBuildDate>Fri, 10 Dec 2021 06:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 06:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
         <copyright>All rights reserved 2021, Lisa Technologies Inc</copyright>
+        <item>
+            <title><![CDATA[Array.prototype.reduce()とかのprototypeってなに？]]></title>
+            <link>https://zenn.dev/ikenohi/articles/b714e47b174ed9</link>
+            <guid>https://zenn.dev/ikenohi/articles/b714e47b174ed9</guid>
+            <pubDate>Fri, 10 Dec 2021 10:23:38 GMT</pubDate>
+            <description><![CDATA[初学者の学習メモです。 今まで何回もこれをやってきました（やめ太郎さんリスペクト）ワイ「あー、JavaScriptの配列のreduceメソッドの使い方忘れた」ワイ「脳みその容量がreduceされとるがな」ワイ「"JS array.reduce"で検索っと」ワイ「お、出てきた出てきた。天下のMDN様や」https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/reduceワイ「ん...?」ワイ「Array.prototype.reduce()...?」ワイ...]]></description>
+        </item>
         <item>
             <title><![CDATA[開発メンバー4人のスタートアップですが、開発広報始めます]]></title>
             <link>https://zenn.dev/lisatech/articles/launch-devrel</link>
