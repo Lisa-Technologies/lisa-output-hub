@@ -4,11 +4,18 @@
         <title>Lisa Output Hub</title>
         <link>https://dev-blog.lisatech.jp/</link>
         <description>Lisa Technologies株式会社のメンバーの投稿が集まります</description>
-        <lastBuildDate>Sun, 12 Dec 2021 06:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 06:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
         <copyright>All rights reserved 2021, Lisa Technologies Inc</copyright>
+        <item>
+            <title><![CDATA[隣接するスキルを学ぶと「後ろ」が楽になる]]></title>
+            <link>https://zenn.dev/ikenohi/articles/78964bb348cdfa</link>
+            <guid>https://zenn.dev/ikenohi/articles/78964bb348cdfa</guid>
+            <pubDate>Sun, 12 Dec 2021 08:10:01 GMT</pubDate>
+            <description><![CDATA[ポエムです。エンジニアリングに興味があるデザイナー、デザインに興味があるエンジニア Advent Calendar 2021に参加しています。 結論デザインとプログラミングを両方学ぶと、変化があるのは主にデザイン側で、生産性が上がるのは主にプログラミング側なぜなら、デザイン→プログラミングという流れだから とある日のサークルでの出来事サークルで新しくInstagramのアカウントを創設するということで、1年生の子がアイコンに使う画像の案を3つ持ってきてくれました。彼女が提出してくれたのは、大きな正方形の画像3枚でした。どれも上手にデザインされてはいるものの、Ins...]]></description>
+        </item>
         <item>
             <title><![CDATA[Array.prototype.reduce()とかのprototypeってなに？]]></title>
             <link>https://zenn.dev/ikenohi/articles/b714e47b174ed9</link>
