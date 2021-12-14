@@ -10,6 +10,12 @@
     },
     "items": [
         {
+            "url": "https://zenn.dev/ikenohi/articles/4a05337af8f2ad",
+            "title": "GatsbyでGoogle Analytics 4が動かなかった",
+            "summary": "初学者の学習メモです。インターン先のGatsby製LPでGoogle Tag Managerを使っていたが、GA4でのデータ収集がうまくできていなかったので修正した。 原因と対処法古いGatsbyプラグインを使っていた→ gatsby-plugin-google-analyticsではなく、gatsby-plugin-gtagを使おうGA3からGA4に移行するに当たり、Tracking IDの変更をしなくてはいけなかった→ 'UA-...'ではなく'G-...'を設定しよう 調査過程Chromeの拡張機能でエラー内容を調査してみる。https://chrom...",
+            "date_modified": "2021-12-13T13:40:50.000Z"
+        },
+        {
             "url": "https://zenn.dev/ikenohi/articles/78964bb348cdfa",
             "title": "隣接するスキルを学ぶと「後ろ」が楽になる",
             "summary": "ポエムです。エンジニアリングに興味があるデザイナー、デザインに興味があるエンジニア Advent Calendar 2021に参加しています。 結論デザインとプログラミングを両方学ぶと、変化があるのは主にデザイン側で、生産性が上がるのは主にプログラミング側なぜなら、デザイン→プログラミングという流れだから とある日のサークルでの出来事サークルで新しくInstagramのアカウントを創設するということで、1年生の子がアイコンに使う画像の案を3つ持ってきてくれました。彼女が提出してくれたのは、大きな正方形の画像3枚でした。どれも上手にデザインされてはいるものの、Ins...",

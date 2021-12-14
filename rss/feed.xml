@@ -4,11 +4,18 @@
         <title>Lisa Output Hub</title>
         <link>https://dev-blog.lisatech.jp/</link>
         <description>Lisa Technologies株式会社のメンバーの投稿が集まります</description>
-        <lastBuildDate>Mon, 13 Dec 2021 06:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 06:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
         <copyright>All rights reserved 2021, Lisa Technologies Inc</copyright>
+        <item>
+            <title><![CDATA[GatsbyでGoogle Analytics 4が動かなかった]]></title>
+            <link>https://zenn.dev/ikenohi/articles/4a05337af8f2ad</link>
+            <guid>https://zenn.dev/ikenohi/articles/4a05337af8f2ad</guid>
+            <pubDate>Mon, 13 Dec 2021 13:40:50 GMT</pubDate>
+            <description><![CDATA[初学者の学習メモです。インターン先のGatsby製LPでGoogle Tag Managerを使っていたが、GA4でのデータ収集がうまくできていなかったので修正した。 原因と対処法古いGatsbyプラグインを使っていた→ gatsby-plugin-google-analyticsではなく、gatsby-plugin-gtagを使おうGA3からGA4に移行するに当たり、Tracking IDの変更をしなくてはいけなかった→ 'UA-...'ではなく'G-...'を設定しよう 調査過程Chromeの拡張機能でエラー内容を調査してみる。https://chrom...]]></description>
+        </item>
         <item>
             <title><![CDATA[隣接するスキルを学ぶと「後ろ」が楽になる]]></title>
             <link>https://zenn.dev/ikenohi/articles/78964bb348cdfa</link>

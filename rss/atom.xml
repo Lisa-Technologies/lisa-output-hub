@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dev-blog.lisatech.jp/</id>
     <title>Lisa Output Hub</title>
-    <updated>2021-12-13T06:20:17.241Z</updated>
+    <updated>2021-12-14T06:20:01.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Lisa Technologies Inc</name>
@@ -13,6 +13,13 @@
     <link rel="self" href="https://dev-blog.lisatech.jp//rss/atom.xml"/>
     <subtitle>Lisa Technologies株式会社のメンバーの投稿が集まります</subtitle>
     <rights>All rights reserved 2021, Lisa Technologies Inc</rights>
+    <entry>
+        <title type="html"><![CDATA[GatsbyでGoogle Analytics 4が動かなかった]]></title>
+        <id>https://zenn.dev/ikenohi/articles/4a05337af8f2ad</id>
+        <link href="https://zenn.dev/ikenohi/articles/4a05337af8f2ad"/>
+        <updated>2021-12-13T13:40:50.000Z</updated>
+        <summary type="html"><![CDATA[初学者の学習メモです。インターン先のGatsby製LPでGoogle Tag Managerを使っていたが、GA4でのデータ収集がうまくできていなかったので修正した。 原因と対処法古いGatsbyプラグインを使っていた→ gatsby-plugin-google-analyticsではなく、gatsby-plugin-gtagを使おうGA3からGA4に移行するに当たり、Tracking IDの変更をしなくてはいけなかった→ 'UA-...'ではなく'G-...'を設定しよう 調査過程Chromeの拡張機能でエラー内容を調査してみる。https://chrom...]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隣接するスキルを学ぶと「後ろ」が楽になる]]></title>
         <id>https://zenn.dev/ikenohi/articles/78964bb348cdfa</id>
