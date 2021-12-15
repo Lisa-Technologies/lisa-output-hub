@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dev-blog.lisatech.jp/</id>
     <title>Lisa Output Hub</title>
-    <updated>2021-12-15T06:19:13.045Z</updated>
+    <updated>2021-12-15T06:56:21.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Lisa Technologies Inc</name>
@@ -13,6 +13,13 @@
     <link rel="self" href="https://dev-blog.lisatech.jp//rss/atom.xml"/>
     <subtitle>Lisa Technologies株式会社のメンバーの投稿が集まります</subtitle>
     <rights>All rights reserved 2021, Lisa Technologies Inc</rights>
+    <entry>
+        <title type="html"><![CDATA[「タスク前宣言」がやりたい！]]></title>
+        <id>https://zenn.dev/youuchiharu/articles/1d5faee21ef6ff</id>
+        <link href="https://zenn.dev/youuchiharu/articles/1d5faee21ef6ff"/>
+        <updated>2021-12-14T14:12:58.000Z</updated>
+        <summary type="html"><![CDATA[モヤモヤエピソード先日、インターン生の僕はチームリーダーと初めて 1on1 をした。その際、最近出したドキュメント「採用基盤（仮）」についてのフィードバック（FB）をもらった。このドキュメントは、いのうえくんのインプットがそのまま書いてあるね。メンバーと共有するドキュメントは、読んだら誰でも行動に移せるような指示書でなくてはいけないよ。次、がんばろうね。しっかりドキュメントを見てもらえたことへの嬉しさ反面、ちょっとモヤモヤが残った。そこで、同じインターン生であり、高校の文化祭で一緒に漫才をした相方にその夜相談してみた...「今回のタスクはエンジニアの採用基盤を作ることだ...]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GatsbyでGoogle Analytics 4が動かなかった]]></title>
         <id>https://zenn.dev/ikenohi/articles/4a05337af8f2ad</id>
