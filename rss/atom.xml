@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dev-blog.lisatech.jp/</id>
     <title>Lisa Output Hub</title>
-    <updated>2021-12-19T06:19:51.107Z</updated>
+    <updated>2021-12-20T04:10:06.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Lisa Technologies Inc</name>
@@ -13,6 +13,13 @@
     <link rel="self" href="https://dev-blog.lisatech.jp//rss/atom.xml"/>
     <subtitle>Lisa Technologies株式会社のメンバーの投稿が集まります</subtitle>
     <rights>All rights reserved 2021, Lisa Technologies Inc</rights>
+    <entry>
+        <title type="html"><![CDATA[ブログを書けない人におすすめのサービスを使ってみた]]></title>
+        <id>https://note.com/_sintaro0221_/n/nf8e185809621</id>
+        <link href="https://note.com/_sintaro0221_/n/nf8e185809621"/>
+        <updated>2021-12-20T03:05:40.000Z</updated>
+        <summary type="html"><![CDATA[社内にて、開発含めたアウトプットをどんどんしていこうというキックオフMTGが先週ありました。設計、実装、運用計画まで、新しく参画されたメンバーが大活躍してくれたので社内で開発ブログ含めたアウトプット強化をしていきたいと思う方は是非下記を覗いてみてください。続きをみる]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「タスク前宣言」がやりたい！]]></title>
         <id>https://zenn.dev/youuchiharu/articles/1d5faee21ef6ff</id>
