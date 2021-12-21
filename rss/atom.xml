@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dev-blog.lisatech.jp/</id>
     <title>Lisa Output Hub</title>
-    <updated>2021-12-20T06:21:00.684Z</updated>
+    <updated>2021-12-21T06:20:42.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Lisa Technologies Inc</name>
@@ -13,6 +13,13 @@
     <link rel="self" href="https://dev-blog.lisatech.jp//rss/atom.xml"/>
     <subtitle>Lisa Technologies株式会社のメンバーの投稿が集まります</subtitle>
     <rights>All rights reserved 2021, Lisa Technologies Inc</rights>
+    <entry>
+        <title type="html"><![CDATA[VSCode素人を卒業しよう]]></title>
+        <id>https://zenn.dev/ikenohi/articles/843e4992fff9bd</id>
+        <link href="https://zenn.dev/ikenohi/articles/843e4992fff9bd"/>
+        <updated>2021-12-20T10:44:42.000Z</updated>
+        <summary type="html"><![CDATA[概要多機能で軽量、見た目もかっこ良くて最高なVSCodeですが、結構デフォルト設定のまま使っている方多いですよね？そんな人の刺激になればと、ぼくが普段から利用しているVSCodeカスタマイズやキーボードショートカットの中からオススメを紹介します。対象読者は以下のような方々で、特に初心者向けの記事です。プログラミング初心者の方VSCodeをデフォルト設定のまま使っている方他人のカスタマイズを覗くのが大好きな方 見た目のカスタム カラーテーマデフォルトのテーマも十分かっこいいですが、もっとタイプの色合いを見つけませんか？カラーテーマは簡単に変更できます。⌘ + ...]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブログを書けない人におすすめのサービスを使ってみた]]></title>
         <id>https://note.com/_sintaro0221_/n/nf8e185809621</id>
@@ -95,7 +102,7 @@
         <id>https://zenn.dev/ikenohi/articles/9e95727a931b9a</id>
         <link href="https://zenn.dev/ikenohi/articles/9e95727a931b9a"/>
         <updated>2021-08-11T02:21:31.000Z</updated>
-        <summary type="html"><![CDATA[初学者の学習メモです。 これはなにflutter_dotenvを用いて.envで環境変数を管理し、.gitignoreに入れておいたところ、Codemagicのビルド時に以下のようなエラーが出ました。そりゃそうだ。                      Error detected in pubspec.yaml:No file or variants found for asset: .env.            Codemagic上でビルド前に.envファイルを用意してエラーを解決する方法を書きます。こちらの公式の説明に沿っていきます。htt...]]></summary>
+        <summary type="html"><![CDATA[初学者の学習メモです。 これはなにflutter_dotenvを用いて.envで環境変数を管理し、.gitignoreに入れておいたところ、Codemagicのビルド時に以下のようなエラーが出ました。そりゃそうだ。Error detected in pubspec.yaml:No file or variants found for asset: .env.Codemagic上でビルド前に.envファイルを用意してエラーを解決する方法を書きます。こちらの公式の説明に沿っていきます。https://docs.codemagic.io/building/encrypti...]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【Flutter】Typography Widgetを自作すると便利]]></title>
@@ -109,14 +116,14 @@
         <id>https://zenn.dev/ikenohi/articles/f4c09bd6cd121f</id>
         <link href="https://zenn.dev/ikenohi/articles/f4c09bd6cd121f"/>
         <updated>2021-07-29T03:46:18.000Z</updated>
-        <summary type="html"><![CDATA[これはなにBottomNavigationによるページ切り替えを実装しながら、下記2つのパッケージに入門する記事です。flutter_hookshooks_riverpodBottomNavigationとstateを用いて普通に画面切り替えの実装をするやり方が分かっていると読みやすいと思います。分かっていなくても読めるようには心がけました。完成予定品はこちら。 実装まず、パッケージをインストールします。下記コードは執筆時のバージョンですので、適宜公式サイトでバージョンを確認するようお願いします。                      depende...]]></summary>
+        <summary type="html"><![CDATA[これはなにBottomNavigationによるページ切り替えを実装しながら、下記2つのパッケージに入門する記事です。flutter_hookshooks_riverpodBottomNavigationとstateを用いて普通に画面切り替えの実装をするやり方が分かっていると読みやすいと思います。分かっていなくても読めるようには心がけました。完成予定品はこちら。 実装まず、パッケージをインストールします。下記コードは執筆時のバージョンですので、適宜公式サイトでバージョンを確認するようお願いします。dependencies:  flutter:    sdk...]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【Flutter】ページ遷移関数をラップするといい感じ]]></title>
         <id>https://zenn.dev/ikenohi/articles/45f60d814f18a3</id>
         <link href="https://zenn.dev/ikenohi/articles/45f60d814f18a3"/>
         <updated>2021-07-20T10:40:01.000Z</updated>
-        <summary type="html"><![CDATA[普通にページ遷移を書くときにもやもやするところ                      Navigator.of(context).push(  PageRouteBuilder(    pageBuilder: (context, animation, secondaryAnimation) {      return NextPage();    },    transitionsBuilder: (context, animation, secondaryAnimation, child) {      return FadeTransition(   ...]]></summary>
+        <summary type="html"><![CDATA[普通にページ遷移を書くときにもやもやするところNavigator.of(context).push(  PageRouteBuilder(    pageBuilder: (context, animation, secondaryAnimation) {      return NextPage();    },    transitionsBuilder: (context, animation, secondaryAnimation, child) {      return FadeTransition(        opacity: animation,...]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[無料版Slackで擬似的にグループメンションを使う方法]]></title>

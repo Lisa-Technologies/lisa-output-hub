@@ -10,6 +10,12 @@
     },
     "items": [
         {
+            "url": "https://zenn.dev/ikenohi/articles/843e4992fff9bd",
+            "title": "VSCode素人を卒業しよう",
+            "summary": "概要多機能で軽量、見た目もかっこ良くて最高なVSCodeですが、結構デフォルト設定のまま使っている方多いですよね？そんな人の刺激になればと、ぼくが普段から利用しているVSCodeカスタマイズやキーボードショートカットの中からオススメを紹介します。対象読者は以下のような方々で、特に初心者向けの記事です。プログラミング初心者の方VSCodeをデフォルト設定のまま使っている方他人のカスタマイズを覗くのが大好きな方 見た目のカスタム カラーテーマデフォルトのテーマも十分かっこいいですが、もっとタイプの色合いを見つけませんか？カラーテーマは簡単に変更できます。⌘ + ...",
+            "date_modified": "2021-12-20T10:44:42.000Z"
+        },
+        {
             "url": "https://note.com/_sintaro0221_/n/nf8e185809621",
             "title": "ブログを書けない人におすすめのサービスを使ってみた",
             "summary": "社内にて、開発含めたアウトプットをどんどんしていこうというキックオフMTGが先週ありました。設計、実装、運用計画まで、新しく参画されたメンバーが大活躍してくれたので社内で開発ブログ含めたアウトプット強化をしていきたいと思う方は是非下記を覗いてみてください。続きをみる",
@@ -78,7 +84,7 @@
         {
             "url": "https://zenn.dev/ikenohi/articles/9e95727a931b9a",
             "title": "【Flutter】Codemagicで「.envが無い！」と怒られる",
-            "summary": "初学者の学習メモです。 これはなにflutter_dotenvを用いて.envで環境変数を管理し、.gitignoreに入れておいたところ、Codemagicのビルド時に以下のようなエラーが出ました。そりゃそうだ。                      Error detected in pubspec.yaml:No file or variants found for asset: .env.            Codemagic上でビルド前に.envファイルを用意してエラーを解決する方法を書きます。こちらの公式の説明に沿っていきます。htt...",
+            "summary": "初学者の学習メモです。 これはなにflutter_dotenvを用いて.envで環境変数を管理し、.gitignoreに入れておいたところ、Codemagicのビルド時に以下のようなエラーが出ました。そりゃそうだ。Error detected in pubspec.yaml:No file or variants found for asset: .env.Codemagic上でビルド前に.envファイルを用意してエラーを解決する方法を書きます。こちらの公式の説明に沿っていきます。https://docs.codemagic.io/building/encrypti...",
             "date_modified": "2021-08-11T02:21:31.000Z"
         },
         {
@@ -90,13 +96,13 @@
         {
             "url": "https://zenn.dev/ikenohi/articles/f4c09bd6cd121f",
             "title": "【Flutter】BottomNav実装でRiverpod×Hooksに入門",
-            "summary": "これはなにBottomNavigationによるページ切り替えを実装しながら、下記2つのパッケージに入門する記事です。flutter_hookshooks_riverpodBottomNavigationとstateを用いて普通に画面切り替えの実装をするやり方が分かっていると読みやすいと思います。分かっていなくても読めるようには心がけました。完成予定品はこちら。 実装まず、パッケージをインストールします。下記コードは執筆時のバージョンですので、適宜公式サイトでバージョンを確認するようお願いします。                      depende...",
+            "summary": "これはなにBottomNavigationによるページ切り替えを実装しながら、下記2つのパッケージに入門する記事です。flutter_hookshooks_riverpodBottomNavigationとstateを用いて普通に画面切り替えの実装をするやり方が分かっていると読みやすいと思います。分かっていなくても読めるようには心がけました。完成予定品はこちら。 実装まず、パッケージをインストールします。下記コードは執筆時のバージョンですので、適宜公式サイトでバージョンを確認するようお願いします。dependencies:  flutter:    sdk...",
             "date_modified": "2021-07-29T03:46:18.000Z"
         },
         {
             "url": "https://zenn.dev/ikenohi/articles/45f60d814f18a3",
             "title": "【Flutter】ページ遷移関数をラップするといい感じ",
-            "summary": "普通にページ遷移を書くときにもやもやするところ                      Navigator.of(context).push(  PageRouteBuilder(    pageBuilder: (context, animation, secondaryAnimation) {      return NextPage();    },    transitionsBuilder: (context, animation, secondaryAnimation, child) {      return FadeTransition(   ...",
+            "summary": "普通にページ遷移を書くときにもやもやするところNavigator.of(context).push(  PageRouteBuilder(    pageBuilder: (context, animation, secondaryAnimation) {      return NextPage();    },    transitionsBuilder: (context, animation, secondaryAnimation, child) {      return FadeTransition(        opacity: animation,...",
             "date_modified": "2021-07-20T10:40:01.000Z"
         },
         {
