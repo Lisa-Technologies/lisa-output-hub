@@ -4,7 +4,7 @@
         <title>Lisa Output Hub</title>
         <link>https://dev-blog.lisatech.jp/</link>
         <description>Lisa Technologies株式会社のメンバーの投稿が集まります</description>
-        <lastBuildDate>Tue, 21 Dec 2021 06:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 06:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -105,7 +105,7 @@
             <link>https://zenn.dev/ikenohi/articles/d849bb194b2af9</link>
             <guid>https://zenn.dev/ikenohi/articles/d849bb194b2af9</guid>
             <pubDate>Sun, 08 Aug 2021 07:02:08 GMT</pubDate>
-            <description><![CDATA[初学者の学習メモです。 なるべく宣言的にText Widgetを記述したいText Widgetは出現回数が比較的多いので、コードから「文字の内容」「スタイル」を読み取るコストをなるべく下げたいなと思うことがよくあります。また、Text Widgetが持つUI上の意味は（誤解を恐れずに言えば）多くの場合「ただの文字」でしかないので、なるべく短く記述したいです。ということで、例えばこんなふうに書けたら良いのではないかと思いました。Widgetの名前でスタイルが、第一引数で文字の内容がわかります。スタイルがWidget内部に隠蔽されている分、すっきり書けます。       ...]]></description>
+            <description><![CDATA[初学者の学習メモです。 なるべく宣言的にText Widgetを記述したいText Widgetは出現回数が比較的多いので、コードから「文字の内容」「スタイル」を読み取るコストをなるべく下げたいなと思うことがよくあります。また、Text Widgetが持つUI上の意味は（誤解を恐れずに言えば）多くの場合「ただの文字」でしかないので、なるべく短く記述したいです。ということで、例えばこんなふうに書けたら良いのではないかと思いました。Widgetの名前でスタイルが、第一引数で文字の内容がわかります。スタイルがWidget内部に隠蔽されている分、すっきり書けます。// 見出しH1...]]></description>
         </item>
         <item>
             <title><![CDATA[【Flutter】BottomNav実装でRiverpod×Hooksに入門]]></title>
@@ -133,7 +133,7 @@
             <link>https://zenn.dev/ikenohi/articles/fc633e30670d0b</link>
             <guid>https://zenn.dev/ikenohi/articles/fc633e30670d0b</guid>
             <pubDate>Fri, 19 Mar 2021 12:12:59 GMT</pubDate>
-            <description><![CDATA[これはなにReactのカスタムフックについて、わかりやすい例えを通じてなんとなーく学べる記事です。対象読者は以下のような方々。useState, useCallback等のHooksがなんとなく使える人初歩的なTypeScriptでコンポーネントが書ける/これから書きたい人世界のナベアツとReactが好きな人 Reactで世界のナベアツを作る「簡単なカウントアプリで、3の倍数と3の付く数字は過激に表示する」というものを作ります。イメージがつきにくい人はこちらのデモを参照してください。まず、全体像を載せておきます。                      ...]]></description>
+            <description><![CDATA[これはなにReactのカスタムフックについて、わかりやすい例えを通じてなんとなーく学べる記事です。対象読者は以下のような方々。useState, useCallback等のHooksがなんとなく使える人初歩的なTypeScriptでコンポーネントが書ける/これから書きたい人世界のナベアツとReactが好きな人 Reactで世界のナベアツを作る「簡単なカウントアプリで、3の倍数と3の付く数字は過激に表示する」というものを作ります。イメージがつきにくい人はこちらのデモを参照してください。まず、全体像を載せておきます。const NabeatsuCounter = (...]]></description>
         </item>
         <item>
             <title><![CDATA[AmplifyでNext.jsをホスティングしてAccess Deniedになるエラーを解決する。]]></title>
