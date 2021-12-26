@@ -4,7 +4,7 @@
         <title>Lisa Output Hub</title>
         <link>https://dev-blog.lisatech.jp/</link>
         <description>Lisa Technologies株式会社のメンバーの投稿が集まります</description>
-        <lastBuildDate>Sat, 25 Dec 2021 06:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 06:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -84,21 +84,21 @@
             <link>https://yutaaaaa.dev/easy-darkmode</link>
             <guid>https://yutaaaaa.dev/easy-darkmode</guid>
             <pubDate>Fri, 03 Sep 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[## やること  最小限の構成だけでダークモードを実装します。ダークモードを実装する際は]]></description>
+            <description><![CDATA[Next.jsで最小限の実装でダークモードを実装する]]></description>
         </item>
         <item>
             <title><![CDATA[Day.jsあれこれ]]></title>
             <link>https://yutaaaaa.dev/dayjs-thisandthat</link>
             <guid>https://yutaaaaa.dev/dayjs-thisandthat</guid>
             <pubDate>Thu, 02 Sep 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[## Moment.js から Day.js へ  あるプロジェクトでもともと Moment.js を使用していたのですが、Moment.js がメンテナンスモードに入るということで置き換えを検討しました。]]></description>
+            <description><![CDATA[Day.jsのちょっとした機能紹介]]></description>
         </item>
         <item>
             <title><![CDATA[Next.jsブログ用のOGP画像をCloudinaryで動的に生成する]]></title>
             <link>https://yutaaaaa.dev/cloudinary-dynamic</link>
             <guid>https://yutaaaaa.dev/cloudinary-dynamic</guid>
             <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[## Cloudinary  [Cloudinary](https://cloudinary.com/) は画像や動画などのメディアを動的 URL を使用して変換・最適化・配信を簡単にできるサービスです。]]></description>
+            <description><![CDATA[Next.jsのブログタイトルを動的に生成]]></description>
         </item>
         <item>
             <title><![CDATA[Notion Web Clipperで媒体の異なるアウトプットをらくらく一元記録]]></title>
@@ -161,63 +161,42 @@
             <link>https://yutaaaaa.dev/next-amplify-hosting</link>
             <guid>https://yutaaaaa.dev/next-amplify-hosting</guid>
             <pubDate>Thu, 10 Dec 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[## 背景  Amplify で Next.js の開発をしていて、 `amplify add hosting` でデプロイまで上手くいっているにも関わらず、存在しない URL に遷移した場合にカスタム 404 ページでなく、403 `Access Denied` に飛んでしまう事象が発生。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Chart.jsのチャート内に注釈を描写する]]></title>
-            <link>https://yutaaaaa.dev/chartjs-annotation</link>
-            <guid>https://yutaaaaa.dev/chartjs-annotation</guid>
-            <pubDate>Sat, 31 Oct 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[## はじめに  業務で React と Chart.js を使用しているのですが、チャートの x 軸の日付でデータの比較をするにあたって、チャート内にラインを引くためにプラグインの `chartjs-plugin-annotation.js` を使用しました。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[React + Chart.jsでカスタムツールチップ]]></title>
-            <link>https://yutaaaaa.dev/react-chart-tooltip</link>
-            <guid>https://yutaaaaa.dev/react-chart-tooltip</guid>
-            <pubDate>Fri, 30 Oct 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[## はじめに  React で Chart.js を使用するために `react-chartjs-2` をインストールします。]]></description>
+            <description><![CDATA[Amplify コンソール Rewrite, Redirect を変更する🔥]]></description>
         </item>
         <item>
             <title><![CDATA[lambdaトリガーでCognitoカスタムメッセージ]]></title>
             <link>https://yutaaaaa.dev/cognito-custom-message</link>
             <guid>https://yutaaaaa.dev/cognito-custom-message</guid>
             <pubDate>Thu, 29 Oct 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[## はじめに  Cognito を通して認証を行なった場合、登録したメールアドレス宛にメールを送信するようになっています。]]></description>
+            <description><![CDATA[カスタムメッセージ Lambda トリガーを利用する📮]]></description>
         </item>
         <item>
             <title><![CDATA[React + Amplify Auth(Cognito)での認証]]></title>
             <link>https://yutaaaaa.dev/amplify-authclass</link>
             <guid>https://yutaaaaa.dev/amplify-authclass</guid>
             <pubDate>Tue, 27 Oct 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[この記事は、`amplify auth` がインストール済みであることが前提となっています。  ## Aamplify について]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Next.jsでAMP対応]]></title>
-            <link>https://yutaaaaa.dev/next-amp</link>
-            <guid>https://yutaaaaa.dev/next-amp</guid>
-            <pubDate>Wed, 30 Sep 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[## What's AMP ?  AMP は Accelerated Mobile Pages の略でウェブサイトを高速かつユーザーファーストにし、収益化するシンプルかつ堅牢なフォーマット。]]></description>
+            <description><![CDATA[Auth APIで認証周りを整える🧘‍♂️]]></description>
         </item>
         <item>
             <title><![CDATA[ニューモーフィズムとは]]></title>
             <link>https://yutaaaaa.dev/neomorphism</link>
             <guid>https://yutaaaaa.dev/neomorphism</guid>
             <pubDate>Sun, 27 Sep 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[## ニューモーフィズムとは  ニューモーフィズムは `フラットデザイン` と `スキューモフィズム` を組み合わせたデザインのことで、背景色・形状・シャドウを組み合わせて実現する、背景から浮かんでいたり・]]></description>
+            <description><![CDATA[2020年流行りのニューモーフィズムとはなんぞや🤔]]></description>
         </item>
         <item>
             <title><![CDATA[ブログ内マークダウンの表現]]></title>
             <link>https://yutaaaaa.dev/markdown-express</link>
             <guid>https://yutaaaaa.dev/markdown-express</guid>
             <pubDate>Thu, 24 Sep 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[## はじめに  このブログは Next.js で構築されています。]]></description>
+            <description><![CDATA[マークダウンで使用しているスタイルを忘れないようにまとめておく。]]></description>
         </item>
         <item>
             <title><![CDATA[ポートフォリオのこと]]></title>
             <link>https://yutaaaaa.dev/first-post</link>
             <guid>https://yutaaaaa.dev/first-post</guid>
             <pubDate>Tue, 22 Sep 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[## ポートフォリオについて  - Resume]]></description>
+            <description><![CDATA[ポートフォリオに何を書いたかを簡単に残しておく。]]></description>
         </item>
     </channel>
 </rss>
