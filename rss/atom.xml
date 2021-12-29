@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dev-blog.lisatech.jp/</id>
     <title>Lisa Output Hub</title>
-    <updated>2021-12-28T06:20:45.587Z</updated>
+    <updated>2021-12-29T06:20:54.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Lisa Technologies Inc</name>
@@ -13,6 +13,20 @@
     <link rel="self" href="https://dev-blog.lisatech.jp//rss/atom.xml"/>
     <subtitle>Lisa Technologies株式会社のメンバーの投稿が集まります</subtitle>
     <rights>All rights reserved 2021, Lisa Technologies Inc</rights>
+    <entry>
+        <title type="html"><![CDATA[AWS Control Tower で設定した管理アカウントの移行]]></title>
+        <id>https://zenn.dev/sintaro/articles/9af62408b27a94</id>
+        <link href="https://zenn.dev/sintaro/articles/9af62408b27a94"/>
+        <updated>2021-12-28T09:00:32.000Z</updated>
+        <summary type="html"><![CDATA[「よしなに」という言葉を重宝しており、なんとなくで使っていたので意味を調べてみました。いい言葉ですね。これからも重宝しようと思います。よしなにとは、よい塩梅になるように、よい状況になるようにという意味の副詞である。参考：weblio さて、今回AWS のマルチアカウント環境を「よしなに」セキュアに作成してくれるAWS Control Towerというサービスがあり、その際に「えいや」でやってしまったミスからの復旧方法を残しておきます。本件は、AWS Supportの方に教わった内容を多く含みます。多謝。 TL;DR間違ったアカウント[1]でControlTowerの設定...]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.jsでMarkdownのリンクからOGP画像を表示する]]></title>
+        <id>https://yutaaaaa.dev/ogp-embed</id>
+        <link href="https://yutaaaaa.dev/ogp-embed"/>
+        <updated>2021-12-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[個人ブログでの記事の表現を広げるためにリンクを貼った際にogp情報が表示されるようにしました。Serverless FUnctionsを使用して実装しましたが、今後似たようなことで困った方が少しでも参考になるように書き残します。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[旨すぎた！おすすめのふるさと納税返礼品[北海道白糠郡]]]></title>
         <id>https://note.com/_sintaro0221_/n/n8814c7d4b6a9</id>
