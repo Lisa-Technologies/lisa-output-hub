@@ -17,8 +17,8 @@
         },
         {
             "url": "https://yutaaaaa.dev/ogp-embed",
-            "title": "Next.jsでMarkdownのリンクからOGP画像を表示する",
-            "summary": "個人ブログでの記事の表現を広げるためにリンクを貼った際にogp情報が表示されるようにしました。Serverless FUnctionsを使用して実装しましたが、今後似たようなことで困った方が少しでも参考になるように書き残します。",
+            "title": "Next.jsでMarkdownのリンクからog情報を表示する",
+            "summary": "個人ブログでの記事の表現を広げるためにリンクを貼った際にog情報が表示されるようにしました。Serverless Functionsを使用して実装しましたが、今後似たようなことで困った方が少しでも参考になるように書き残します。",
             "date_modified": "2021-12-28T00:00:00.000Z"
         },
         {
@@ -138,7 +138,7 @@
         {
             "url": "https://yutaaaaa.dev/amplify-authclass",
             "title": "React + Amplify Auth(Cognito)での認証",
-            "summary": "Amplifyをプロジェクトで使用していたAuth APIについてまとめました。自分でデザインしたUIでAuthを利用する際のTIPSを簡単に紹介します。",
+            "summary": "Amplifyプロジェクトで使用していたAuth APIについてまとめました。自分でデザインしたUIでAuthを利用する際のTIPSを簡単に紹介します。",
             "date_modified": "2020-10-27T00:00:00.000Z"
         },
         {
