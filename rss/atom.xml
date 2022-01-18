@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dev-blog.lisatech.jp/</id>
     <title>Lisa Output Hub</title>
-    <updated>2022-01-17T06:21:46.629Z</updated>
+    <updated>2022-01-18T06:18:27.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Lisa Technologies Inc</name>
@@ -13,6 +13,13 @@
     <link rel="self" href="https://dev-blog.lisatech.jp//rss/atom.xml"/>
     <subtitle>Lisa Technologies株式会社のメンバーの投稿が集まります</subtitle>
     <rights>All rights reserved 2022, Lisa Technologies Inc</rights>
+    <entry>
+        <title type="html"><![CDATA[[Create React App]publicディレクトリとbuildディレクトリについて]]></title>
+        <id>https://zenn.dev/youuchiharu/articles/a4f1c147681388</id>
+        <link href="https://zenn.dev/youuchiharu/articles/a4f1c147681388"/>
+        <updated>2022-01-18T02:51:32.000Z</updated>
+        <summary type="html"><![CDATA[初学者の学習メモです。エラーを解決する中で、public ディレクトリと build ディレクトリについて学んだ。記事前半、エラーとその解決について記事後半、ビルドに関わる３つのディレクトリについて 前半：起きたエラーとその解決についてfirebase deployを叩いたら、画面がホワイトアウトした。 詳しい状況説明開発環境は Create React Appこの記事を参考に Netflix クローンを作成以下の３つのコマンドを順に叩いて、Firebase を用いたデプロイを試みた$ firebase init$ npm run build$ ...]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Control Tower で設定した管理アカウントの移行]]></title>
         <id>https://zenn.dev/sintaro/articles/9af62408b27a94</id>
