@@ -11,6 +11,7 @@ import {
   ContentWrapper,
   UndoWrapForScroll,
 } from "@src/components/ContentWrapper";
+import { Meter } from "@src/components/Meter";
 // import { url } from "@src/utils/url";
 
 const Page: NextPage = () => {
@@ -43,7 +44,8 @@ const Page: NextPage = () => {
           </Link>
         </ContentWrapper>
       </section>
-
+      {/* ここにセクションmeterを挿入する */}
+      <Meter />
       <section className="home-members">
         <ContentWrapper>
           <div className="home-section-title-container">
