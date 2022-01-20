@@ -7,10 +7,10 @@ interface StumpProps {
 }
 
 export const Stump: VFC<StumpProps> = ({ isDone }) => {
-  const stump = isDone ? "済" : "";
+  const stump = isDone ? "済" : "takashima";
   return (
-    <div>
-      <p>{stump}</p>
+    <div className="blackbox">
+      <p className="stump">{stump}</p>
     </div>
   );
 };
@@ -24,11 +24,17 @@ export const Meter: VFC<MeterProps> = ({ items }) => {
     <section>
       <ContentWrapper>
         <div>This is Meter</div>
-        <ul>
+        {/* <ul>
           {items.map((item) => (
             <li>{item.title}</li>
           ))}
-        </ul>
+        </ul> */}
+        <div className="kendo">
+          <Stump isDone={true} />
+          <Stump isDone={false} />
+          <Stump isDone={false} />
+          <Stump isDone={true} />
+        </div>
       </ContentWrapper>
     </section>
   );
