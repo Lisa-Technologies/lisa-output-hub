@@ -12,9 +12,21 @@ import {
   UndoWrapForScroll,
 } from "@src/components/ContentWrapper";
 import { Meter } from "@src/components/Meter";
+// import { Meter } from "@src/components/Meter";
 // import { url } from "@src/utils/url";
 
 const Page: NextPage = () => {
+  const filteredPosts = posts.filter((post) => {
+    //今の時間データを取得
+    const todayDate = new Date(Date.now());
+    //YYYY-MMで今月の値を取得
+    const thisMonth = todayDate.toISOString().substring(0, 8);
+    //postのISOデータ先頭７文字を取得 publishedMonth
+    const publishedMonth = post.isoDate.substring(0, 8);
+    //thismonth === publishedMonthとなる記事データを取得
+    return thisMonth === publishedMonth;
+  });
+
   return (
     <>
       <PageSEO
@@ -45,7 +57,7 @@ const Page: NextPage = () => {
         </ContentWrapper>
       </section>
       {/* ここにセクションmeterを挿入する */}
-      <Meter />
+      <Meter items={filteredPosts as PostItem[]} />
       <section className="home-members">
         <ContentWrapper>
           <div className="home-section-title-container">
