@@ -10,6 +10,12 @@
     },
     "items": [
         {
+            "url": "https://zenn.dev/ikenohi/articles/4a4d659e80237b",
+            "title": "【React】setStateはStateを変更しない？",
+            "summary": "初学者の学習メモです。 とある日の晩Reactチュートリアルを終えたばかりの友人に、簡単なTodoアプリの実装デモを通じてpropsとstateについて説明していたときのことです。useState APIの使い方を理解してもらうため、こんな感じのコードを書いて見せました。初期値に'洗濯物'を持つTodoリストで、ボタンを押すと'hoge'という項目が追加されるというものです。export const TodoList = () => {  const [todos, setTodos] = React.useState([\"洗濯物\"]);  const addT...",
+            "date_modified": "2022-01-21T04:05:17.000Z"
+        },
+        {
             "url": "https://zenn.dev/youuchiharu/articles/a4f1c147681388",
             "title": "[Create React App]publicディレクトリとbuildディレクトリについて",
             "summary": "初学者の学習メモです。エラーを解決する中で、public ディレクトリと build ディレクトリについて学んだ。記事前半、エラーとその解決について記事後半、ビルドに関わる３つのディレクトリについて 前半：起きたエラーとその解決についてfirebase deployを叩いたら、画面がホワイトアウトした。 詳しい状況説明開発環境は Create React Appこの記事を参考に Netflix クローンを作成以下の３つのコマンドを順に叩いて、Firebase を用いたデプロイを試みた$ firebase init$ npm run build$ ...",

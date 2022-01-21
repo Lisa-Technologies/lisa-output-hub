@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dev-blog.lisatech.jp/</id>
     <title>Lisa Output Hub</title>
-    <updated>2022-01-20T06:19:05.906Z</updated>
+    <updated>2022-01-21T06:19:29.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Lisa Technologies Inc</name>
@@ -13,6 +13,13 @@
     <link rel="self" href="https://dev-blog.lisatech.jp//rss/atom.xml"/>
     <subtitle>Lisa Technologies株式会社のメンバーの投稿が集まります</subtitle>
     <rights>All rights reserved 2022, Lisa Technologies Inc</rights>
+    <entry>
+        <title type="html"><![CDATA[【React】setStateはStateを変更しない？]]></title>
+        <id>https://zenn.dev/ikenohi/articles/4a4d659e80237b</id>
+        <link href="https://zenn.dev/ikenohi/articles/4a4d659e80237b"/>
+        <updated>2022-01-21T04:05:17.000Z</updated>
+        <summary type="html"><![CDATA[初学者の学習メモです。 とある日の晩Reactチュートリアルを終えたばかりの友人に、簡単なTodoアプリの実装デモを通じてpropsとstateについて説明していたときのことです。useState APIの使い方を理解してもらうため、こんな感じのコードを書いて見せました。初期値に'洗濯物'を持つTodoリストで、ボタンを押すと'hoge'という項目が追加されるというものです。export const TodoList = () => {  const [todos, setTodos] = React.useState(["洗濯物"]);  const addT...]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Create React App]publicディレクトリとbuildディレクトリについて]]></title>
         <id>https://zenn.dev/youuchiharu/articles/a4f1c147681388</id>
