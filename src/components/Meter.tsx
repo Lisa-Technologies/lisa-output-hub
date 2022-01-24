@@ -7,10 +7,11 @@ interface StumpProps {
 }
 
 export const Stump: VFC<StumpProps> = ({ isDone }) => {
-  const stump = isDone ? "済" : "takashima";
+  const stump = isDone ? "🎉" : "-";
+
   return (
-    <div className="blackbox">
-      <p className="stump">{stump}</p>
+    <div className="stump__container">
+      <p className="stump__item">{stump}</p>
     </div>
   );
 };
@@ -21,13 +22,29 @@ interface MeterProps {
 
 export const Meter: VFC<MeterProps> = ({ items }) => {
   const n = items.length;
-  const stumps = [...Array(4)].map((_, i) => <Stump isDone={i < n} />);
+  const stumps = (num = 0) =>
+    [...Array(4)].map((_, i) => <Stump isDone={i + num * 4 < n} />);
+
+  const emoji = (n: number) => {
+    return n <= 4 ? ["😅", "😃", "😏", "😘", "🤩"][n] : "🎉";
+  };
 
   return (
     <section>
       <ContentWrapper>
-        <div>This is Meter</div>
-        <div className="kendo">{stumps}</div>
+        <div className="home-section-title-container">
+          <h2 className="home-section-title">Blog Meter</h2>
+        </div>
+        <div className="meter__container">
+          <h2>
+            今月の達成率：
+            <span>{n}/4</span>
+            <span>{emoji(n)}</span>
+          </h2>
+          <div className="meter__stumps">{stumps()}</div>
+          {n > 4 && <div className="meter__stumps">{stumps(1)}</div>}
+          {n > 8 && <div className="meter__stumps">{stumps(2)}</div>}
+        </div>
       </ContentWrapper>
     </section>
   );

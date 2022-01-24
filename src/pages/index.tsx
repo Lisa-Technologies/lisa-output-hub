@@ -12,8 +12,6 @@ import {
   UndoWrapForScroll,
 } from "@src/components/ContentWrapper";
 import { Meter } from "@src/components/Meter";
-// import { Meter } from "@src/components/Meter";
-// import { url } from "@src/utils/url";
 
 const Page: NextPage = () => {
   const filteredPosts = posts.filter((post) => {
@@ -56,8 +54,7 @@ const Page: NextPage = () => {
           </Link>
         </ContentWrapper>
       </section>
-      {/* ここにセクションmeterを挿入する */}
-      <Meter items={filteredPosts as PostItem[]} />
+
       <section className="home-members">
         <ContentWrapper>
           <div className="home-section-title-container">
@@ -74,6 +71,8 @@ const Page: NextPage = () => {
           </div>
         </ContentWrapper>
       </section>
+
+      <Meter items={filteredPosts as PostItem[]} />
 
       <section className="home-posts">
         <ContentWrapper>
