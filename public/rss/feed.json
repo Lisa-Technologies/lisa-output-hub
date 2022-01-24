@@ -10,6 +10,54 @@
     },
     "items": [
         {
+            "url": "https://zenn.dev/youuchiharu/articles/a4f1c147681388",
+            "title": "[Create React App]publicディレクトリとbuildディレクトリについて",
+            "summary": "初学者の学習メモです。エラーを解決する中で、public ディレクトリと build ディレクトリについて学んだ。記事前半、エラーとその解決について記事後半、ビルドに関わる３つのディレクトリについて 前半：起きたエラーとその解決についてfirebase deployを叩いたら、画面がホワイトアウトした。 詳しい状況説明開発環境は Create React Appこの記事を参考に Netflix クローンを作成以下の３つのコマンドを順に叩いて、Firebase を用いたデプロイを試みた$ firebase init$ npm run build$ ...",
+            "date_modified": "2022-01-18T02:51:32.000Z"
+        },
+        {
+            "url": "https://zenn.dev/sintaro/articles/9af62408b27a94",
+            "title": "AWS Control Tower で設定した管理アカウントの移行",
+            "summary": "「よしなに」という言葉を重宝しており、なんとなくで使っていたので意味を調べてみました。いい言葉ですね。これからも重宝しようと思います。よしなにとは、よい塩梅になるように、よい状況になるようにという意味の副詞である。参考：weblio さて、今回AWS のマルチアカウント環境を「よしなに」セキュアに作成してくれるAWS Control Towerというサービスがあり、その際に「えいや」でやってしまったミスからの復旧方法を残しておきます。本件は、AWS Supportの方に教わった内容を多く含みます。多謝。 TL;DR間違ったアカウント[1]でControlTowerの設定...",
+            "date_modified": "2021-12-28T09:00:32.000Z"
+        },
+        {
+            "url": "https://yutaaaaa.dev/ogp-embed",
+            "title": "Next.jsでMarkdownのリンクからog情報を表示する",
+            "summary": "個人ブログでの記事の表現を広げるためにリンクを貼った際にog情報が表示されるようにしました。Serverless Functionsを使用して実装しましたが、今後似たようなことで困った方が少しでも参考になるように書き残します。",
+            "date_modified": "2021-12-28T00:00:00.000Z"
+        },
+        {
+            "url": "https://note.com/_sintaro0221_/n/n8814c7d4b6a9",
+            "title": "旨すぎた！おすすめのふるさと納税返礼品[北海道白糠郡]",
+            "summary": "チャーシュー盛りだな。と撮った後に思いました、、、作って、盛って、上げる(note)、ことは、フードデリバリーをされている飲食店の方々が料理をUber Eats等のプラットフォームに掲載する同じ流れですが見えてない様々なプロフェッショナルがあるんだなー、と改めて思いました（強引）続きをみる",
+            "date_modified": "2021-12-24T11:29:23.000Z"
+        },
+        {
+            "url": "https://zenn.dev/ikenohi/articles/efad6ad9380f2d",
+            "title": "【23卒】コンパクトな文系エンジニア就活を振り返る",
+            "summary": "概要先の11月末、株式会社ゆめみさんから23卒エンジニア枠の内定をいただいて就活を終えましたので、就活全体の振り返りを書こうと思います。この記事では、「ES提出は4社のみ」「ES提出開始から就活終了まで約1ヶ月半」とコンパクトに就活を終えた自分のスケジュール感や、就活におけるちょっとしたTips、その他所感などを述べていきます。個別の会社の対策などには触れませんのでご容赦ください。 基本情報一橋大学経済学部3年（文系）まちづくりサークルPro-K所属（面接で使ったので一応共有）1年生の6月から長期インターンを始め、エンジニアとしての業務経験は就活開始時点でのべ1年ほ...",
+            "date_modified": "2021-12-24T05:36:31.000Z"
+        },
+        {
+            "url": "https://zenn.dev/lisatech/articles/inception-deck-template-on-notion",
+            "title": "Notionでインセプションデッキテンプレートを作ったので公開します",
+            "summary": "こんにちは！Lisa Technologies 株式会社インターンのなかがわはじめです！今回、プロジェクトのキックオフなどに使うインセプションデッキのテンプレートを Notion で作成しました！Duplicate 可にしましたのでみなさんもご自由にお使いください。https://hyper-sunshine-6c1.notion.site/d08cfbcc61a14b87bb82ffb905762eca本記事では、このテンプレートの作成の経緯やテンプレートの使い方などを紹介します！ 作成の経緯 そもそもインセプションデッキって？インセプションデッキとは、プロジェクトの...",
+            "date_modified": "2021-12-23T05:16:34.000Z"
+        },
+        {
+            "url": "https://zenn.dev/ikenohi/articles/843e4992fff9bd",
+            "title": "VSCode素人を卒業しよう",
+            "summary": "概要多機能で軽量、見た目もかっこ良くて最高なVSCodeですが、結構デフォルト設定のまま使っている方多いですよね？そんな人の刺激になればと、ぼくが普段から利用しているVSCodeカスタマイズやキーボードショートカットの中からオススメを紹介します。対象読者は以下のような方々で、特に初心者向けの記事です。プログラミング初心者の方VSCodeをデフォルト設定のまま使っている方他人のカスタマイズを覗くのが大好きな方 見た目のカスタム カラーテーマデフォルトのテーマも十分かっこいいですが、もっとタイプの色合いを見つけませんか？カラーテーマは簡単に変更できます。⌘ + ...",
+            "date_modified": "2021-12-20T10:44:42.000Z"
+        },
+        {
+            "url": "https://note.com/_sintaro0221_/n/nf8e185809621",
+            "title": "ブログを書けない人におすすめのサービスを使ってみた",
+            "summary": "社内にて、開発含めたアウトプットをどんどんしていこうというキックオフMTGが先週ありました。設計、実装、運用計画まで、新しく参画されたメンバーが大活躍してくれたので社内で開発ブログ含めたアウトプット強化をしていきたいと思う方は是非下記を覗いてみてください。続きをみる",
+            "date_modified": "2021-12-20T03:05:40.000Z"
+        },
+        {
             "url": "https://zenn.dev/youuchiharu/articles/1d5faee21ef6ff",
             "title": "「タスク前宣言」がやりたい！",
             "summary": "モヤモヤエピソード先日、インターン生の僕はチームリーダーと初めて 1on1 をした。その際、最近出したドキュメント「採用基盤（仮）」についてのフィードバック（FB）をもらった。このドキュメントは、いのうえくんのインプットがそのまま書いてあるね。メンバーと共有するドキュメントは、読んだら誰でも行動に移せるような指示書でなくてはいけないよ。次、がんばろうね。しっかりドキュメントを見てもらえたことへの嬉しさ反面、ちょっとモヤモヤが残った。そこで、同じインターン生であり、高校の文化祭で一緒に漫才をした相方にその夜相談してみた...「今回のタスクはエンジニアの採用基盤を作ることだ...",
@@ -40,21 +88,9 @@
             "date_modified": "2021-12-01T03:24:20.000Z"
         },
         {
-            "url": "https://yutaaaaa.dev/easy-darkmode",
-            "title": "イージーな気分でダークモードを実装する",
-            "summary": "## やること  最小限の構成だけでダークモードを実装します。ダークモードを実装する際は",
-            "date_modified": "2021-09-03T00:00:00.000Z"
-        },
-        {
-            "url": "https://yutaaaaa.dev/dayjs-thisandthat",
-            "title": "Day.jsあれこれ",
-            "summary": "## Moment.js から Day.js へ  あるプロジェクトでもともと Moment.js を使用していたのですが、Moment.js がメンテナンスモードに入るということで置き換えを検討しました。",
-            "date_modified": "2021-09-02T00:00:00.000Z"
-        },
-        {
             "url": "https://yutaaaaa.dev/cloudinary-dynamic",
-            "title": "Next.jsブログ用のOGP画像をCloudinaryで動的に生成する",
-            "summary": "## Cloudinary  [Cloudinary](https://cloudinary.com/) は画像や動画などのメディアを動的 URL を使用して変換・最適化・配信を簡単にできるサービスです。",
+            "title": "Next.js製ブログ用のOGP画像をCloudinaryで動的に生成する",
+            "summary": "Next.jsで作成されている本サイトの記事のタイトルをCloudinaryを使用して動的に生成します。",
             "date_modified": "2021-09-01T00:00:00.000Z"
         },
         {
@@ -72,25 +108,25 @@
         {
             "url": "https://zenn.dev/ikenohi/articles/9e95727a931b9a",
             "title": "【Flutter】Codemagicで「.envが無い！」と怒られる",
-            "summary": "初学者の学習メモです。 これはなにflutter_dotenvを用いて.envで環境変数を管理し、.gitignoreに入れておいたところ、Codemagicのビルド時に以下のようなエラーが出ました。そりゃそうだ。                      Error detected in pubspec.yaml:No file or variants found for asset: .env.            Codemagic上でビルド前に.envファイルを用意してエラーを解決する方法を書きます。こちらの公式の説明に沿っていきます。htt...",
+            "summary": "初学者の学習メモです。 これはなにflutter_dotenvを用いて.envで環境変数を管理し、.gitignoreに入れておいたところ、Codemagicのビルド時に以下のようなエラーが出ました。そりゃそうだ。Error detected in pubspec.yaml:No file or variants found for asset: .env.Codemagic上でビルド前に.envファイルを用意してエラーを解決する方法を書きます。こちらの公式の説明に沿っていきます。https://docs.codemagic.io/building/encrypti...",
             "date_modified": "2021-08-11T02:21:31.000Z"
         },
         {
             "url": "https://zenn.dev/ikenohi/articles/d849bb194b2af9",
             "title": "【Flutter】Typography Widgetを自作すると便利",
-            "summary": "初学者の学習メモです。 なるべく宣言的にText Widgetを記述したいText Widgetは出現回数が比較的多いので、コードから「文字の内容」「スタイル」を読み取るコストをなるべく下げたいなと思うことがよくあります。また、Text Widgetが持つUI上の意味は（誤解を恐れずに言えば）多くの場合「ただの文字」でしかないので、なるべく短く記述したいです。ということで、例えばこんなふうに書けたら良いのではないかと思いました。Widgetの名前でスタイルが、第一引数で文字の内容がわかります。スタイルがWidget内部に隠蔽されている分、すっきり書けます。       ...",
+            "summary": "初学者の学習メモです。 なるべく宣言的にText Widgetを記述したいText Widgetは出現回数が比較的多いので、コードから「文字の内容」「スタイル」を読み取るコストをなるべく下げたいなと思うことがよくあります。また、Text Widgetが持つUI上の意味は（誤解を恐れずに言えば）多くの場合「ただの文字」でしかないので、なるべく短く記述したいです。ということで、例えばこんなふうに書けたら良いのではないかと思いました。Widgetの名前でスタイルが、第一引数で文字の内容がわかります。スタイルがWidget内部に隠蔽されている分、すっきり書けます。// 見出しH1...",
             "date_modified": "2021-08-08T07:02:08.000Z"
         },
         {
             "url": "https://zenn.dev/ikenohi/articles/f4c09bd6cd121f",
             "title": "【Flutter】BottomNav実装でRiverpod×Hooksに入門",
-            "summary": "これはなにBottomNavigationによるページ切り替えを実装しながら、下記2つのパッケージに入門する記事です。flutter_hookshooks_riverpodBottomNavigationとstateを用いて普通に画面切り替えの実装をするやり方が分かっていると読みやすいと思います。分かっていなくても読めるようには心がけました。完成予定品はこちら。 実装まず、パッケージをインストールします。下記コードは執筆時のバージョンですので、適宜公式サイトでバージョンを確認するようお願いします。                      depende...",
+            "summary": "これはなにBottomNavigationによるページ切り替えを実装しながら、下記2つのパッケージに入門する記事です。flutter_hookshooks_riverpodBottomNavigationとstateを用いて普通に画面切り替えの実装をするやり方が分かっていると読みやすいと思います。分かっていなくても読めるようには心がけました。完成予定品はこちら。 実装まず、パッケージをインストールします。下記コードは執筆時のバージョンですので、適宜公式サイトでバージョンを確認するようお願いします。dependencies:  flutter:    sdk...",
             "date_modified": "2021-07-29T03:46:18.000Z"
         },
         {
             "url": "https://zenn.dev/ikenohi/articles/45f60d814f18a3",
             "title": "【Flutter】ページ遷移関数をラップするといい感じ",
-            "summary": "普通にページ遷移を書くときにもやもやするところ                      Navigator.of(context).push(  PageRouteBuilder(    pageBuilder: (context, animation, secondaryAnimation) {      return NextPage();    },    transitionsBuilder: (context, animation, secondaryAnimation, child) {      return FadeTransition(   ...",
+            "summary": "普通にページ遷移を書くときにもやもやするところNavigator.of(context).push(  PageRouteBuilder(    pageBuilder: (context, animation, secondaryAnimation) {      return NextPage();    },    transitionsBuilder: (context, animation, secondaryAnimation, child) {      return FadeTransition(        opacity: animation,...",
             "date_modified": "2021-07-20T10:40:01.000Z"
         },
         {
@@ -102,62 +138,20 @@
         {
             "url": "https://zenn.dev/ikenohi/articles/fc633e30670d0b",
             "title": "【TS】世界のナベアツに学ぶ、カスタムフック入門",
-            "summary": "これはなにReactのカスタムフックについて、わかりやすい例えを通じてなんとなーく学べる記事です。対象読者は以下のような方々。useState, useCallback等のHooksがなんとなく使える人初歩的なTypeScriptでコンポーネントが書ける/これから書きたい人世界のナベアツとReactが好きな人 Reactで世界のナベアツを作る「簡単なカウントアプリで、3の倍数と3の付く数字は過激に表示する」というものを作ります。イメージがつきにくい人はこちらのデモを参照してください。まず、全体像を載せておきます。                      ...",
+            "summary": "これはなにReactのカスタムフックについて、わかりやすい例えを通じてなんとなーく学べる記事です。対象読者は以下のような方々。useState, useCallback等のHooksがなんとなく使える人初歩的なTypeScriptでコンポーネントが書ける/これから書きたい人世界のナベアツとReactが好きな人 Reactで世界のナベアツを作る「簡単なカウントアプリで、3の倍数と3の付く数字は過激に表示する」というものを作ります。イメージがつきにくい人はこちらのデモを参照してください。まず、全体像を載せておきます。const NabeatsuCounter = (...",
             "date_modified": "2021-03-19T12:12:59.000Z"
-        },
-        {
-            "url": "https://yutaaaaa.dev/next-amplify-hosting",
-            "title": "AmplifyでNext.jsをホスティングしてAccess Deniedになるエラーを解決する。",
-            "summary": "## 背景  Amplify で Next.js の開発をしていて、 `amplify add hosting` でデプロイまで上手くいっているにも関わらず、存在しない URL に遷移した場合にカスタム 404 ページでなく、403 `Access Denied` に飛んでしまう事象が発生。",
-            "date_modified": "2020-12-10T00:00:00.000Z"
-        },
-        {
-            "url": "https://yutaaaaa.dev/chartjs-annotation",
-            "title": "Chart.jsのチャート内に注釈を描写する",
-            "summary": "## はじめに  業務で React と Chart.js を使用しているのですが、チャートの x 軸の日付でデータの比較をするにあたって、チャート内にラインを引くためにプラグインの `chartjs-plugin-annotation.js` を使用しました。",
-            "date_modified": "2020-10-31T00:00:00.000Z"
-        },
-        {
-            "url": "https://yutaaaaa.dev/react-chart-tooltip",
-            "title": "React + Chart.jsでカスタムツールチップ",
-            "summary": "## はじめに  React で Chart.js を使用するために `react-chartjs-2` をインストールします。",
-            "date_modified": "2020-10-30T00:00:00.000Z"
-        },
-        {
-            "url": "https://yutaaaaa.dev/cognito-custom-message",
-            "title": "lambdaトリガーでCognitoカスタムメッセージ",
-            "summary": "## はじめに  Cognito を通して認証を行なった場合、登録したメールアドレス宛にメールを送信するようになっています。",
-            "date_modified": "2020-10-29T00:00:00.000Z"
         },
         {
             "url": "https://yutaaaaa.dev/amplify-authclass",
             "title": "React + Amplify Auth(Cognito)での認証",
-            "summary": "この記事は、`amplify auth` がインストール済みであることが前提となっています。  ## Aamplify について",
+            "summary": "Amplifyプロジェクトで使用していたAuth APIについてまとめました。自分でデザインしたUIでAuthを利用する際のTIPSを簡単に紹介します。",
             "date_modified": "2020-10-27T00:00:00.000Z"
         },
         {
-            "url": "https://yutaaaaa.dev/next-amp",
-            "title": "Next.jsでAMP対応",
-            "summary": "## What's AMP ?  AMP は Accelerated Mobile Pages の略でウェブサイトを高速かつユーザーファーストにし、収益化するシンプルかつ堅牢なフォーマット。",
-            "date_modified": "2020-09-30T00:00:00.000Z"
-        },
-        {
-            "url": "https://yutaaaaa.dev/neomorphism",
-            "title": "ニューモーフィズムとは",
-            "summary": "## ニューモーフィズムとは  ニューモーフィズムは `フラットデザイン` と `スキューモフィズム` を組み合わせたデザインのことで、背景色・形状・シャドウを組み合わせて実現する、背景から浮かんでいたり・",
-            "date_modified": "2020-09-27T00:00:00.000Z"
-        },
-        {
-            "url": "https://yutaaaaa.dev/markdown-express",
-            "title": "ブログ内マークダウンの表現",
-            "summary": "## はじめに  このブログは Next.js で構築されています。",
+            "url": "https://yutaaaaa.dev/starting-blog",
+            "title": "個人ブログを作成しました",
+            "summary": "自分の日常や技術的なこと・体験したことを文字で残すために個人ブログを作成しました。更新頻度は少なそうですが、自分のペースでぼちぼち書いていきます。",
             "date_modified": "2020-09-24T00:00:00.000Z"
-        },
-        {
-            "url": "https://yutaaaaa.dev/first-post",
-            "title": "ポートフォリオのこと",
-            "summary": "## ポートフォリオについて  - Resume",
-            "date_modified": "2020-09-22T00:00:00.000Z"
         }
     ]
 }
