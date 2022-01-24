@@ -20,21 +20,14 @@ interface MeterProps {
 }
 
 export const Meter: VFC<MeterProps> = ({ items }) => {
+  const n = items.length;
+  const stumps = [...Array(4)].map((_, i) => <Stump isDone={i < n} />);
+
   return (
     <section>
       <ContentWrapper>
         <div>This is Meter</div>
-        {/* <ul>
-          {items.map((item) => (
-            <li>{item.title}</li>
-          ))}
-        </ul> */}
-        <div className="kendo">
-          <Stump isDone={true} />
-          <Stump isDone={false} />
-          <Stump isDone={false} />
-          <Stump isDone={true} />
-        </div>
+        <div className="kendo">{stumps}</div>
       </ContentWrapper>
     </section>
   );
