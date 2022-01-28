@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dev-blog.lisatech.jp/</id>
     <title>Lisa Output Hub</title>
-    <updated>2022-01-27T06:19:40.861Z</updated>
+    <updated>2022-01-28T06:19:28.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Lisa Technologies Inc</name>
@@ -13,6 +13,13 @@
     <link rel="self" href="https://dev-blog.lisatech.jp//rss/atom.xml"/>
     <subtitle>Lisa Technologies株式会社のメンバーの投稿が集まります</subtitle>
     <rights>All rights reserved 2022, Lisa Technologies Inc</rights>
+    <entry>
+        <title type="html"><![CDATA[【Next.js】Notionのbookmarkみたいなコンポーネントを作りたい]]></title>
+        <id>https://zenn.dev/ikenohi/articles/b3f4aefb81732c</id>
+        <link href="https://zenn.dev/ikenohi/articles/b3f4aefb81732c"/>
+        <updated>2022-01-27T09:11:13.000Z</updated>
+        <summary type="html"><![CDATA[Notionでリンクを貼ったときに”Create bookmark”で作れるこれ、なんかかっこよくないですか？リンクからOGPデータを取得していい感じの見た目を表示するのをやってみたかったので、試しに実装してみることにしました。出来上がったものはこんな感じです。GitHubデモサイト最終的に使用した技術Next.js（Serverless Functions含む）TypeScriptTailwind CSSswrJSDOMReact Loading SkeletonVercel 型定義＆モックデータ作成最初にデザインから必要な情報を抽出し、その...]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【React】setStateはStateを変更しない？]]></title>
         <id>https://zenn.dev/ikenohi/articles/4a4d659e80237b</id>

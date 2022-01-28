@@ -4,11 +4,18 @@
         <title>Lisa Output Hub</title>
         <link>https://dev-blog.lisatech.jp/</link>
         <description>Lisa Technologies株式会社のメンバーの投稿が集まります</description>
-        <lastBuildDate>Thu, 27 Jan 2022 06:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 06:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
         <copyright>All rights reserved 2022, Lisa Technologies Inc</copyright>
+        <item>
+            <title><![CDATA[【Next.js】Notionのbookmarkみたいなコンポーネントを作りたい]]></title>
+            <link>https://zenn.dev/ikenohi/articles/b3f4aefb81732c</link>
+            <guid>https://zenn.dev/ikenohi/articles/b3f4aefb81732c</guid>
+            <pubDate>Thu, 27 Jan 2022 09:11:13 GMT</pubDate>
+            <description><![CDATA[Notionでリンクを貼ったときに”Create bookmark”で作れるこれ、なんかかっこよくないですか？リンクからOGPデータを取得していい感じの見た目を表示するのをやってみたかったので、試しに実装してみることにしました。出来上がったものはこんな感じです。GitHubデモサイト最終的に使用した技術Next.js（Serverless Functions含む）TypeScriptTailwind CSSswrJSDOMReact Loading SkeletonVercel 型定義＆モックデータ作成最初にデザインから必要な情報を抽出し、その...]]></description>
+        </item>
         <item>
             <title><![CDATA[【React】setStateはStateを変更しない？]]></title>
             <link>https://zenn.dev/ikenohi/articles/4a4d659e80237b</link>

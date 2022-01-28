@@ -10,6 +10,12 @@
     },
     "items": [
         {
+            "url": "https://zenn.dev/ikenohi/articles/b3f4aefb81732c",
+            "title": "【Next.js】Notionのbookmarkみたいなコンポーネントを作りたい",
+            "summary": "Notionでリンクを貼ったときに”Create bookmark”で作れるこれ、なんかかっこよくないですか？リンクからOGPデータを取得していい感じの見た目を表示するのをやってみたかったので、試しに実装してみることにしました。出来上がったものはこんな感じです。GitHubデモサイト最終的に使用した技術Next.js（Serverless Functions含む）TypeScriptTailwind CSSswrJSDOMReact Loading SkeletonVercel 型定義＆モックデータ作成最初にデザインから必要な情報を抽出し、その...",
+            "date_modified": "2022-01-27T09:11:13.000Z"
+        },
+        {
             "url": "https://zenn.dev/ikenohi/articles/4a4d659e80237b",
             "title": "【React】setStateはStateを変更しない？",
             "summary": "初学者の学習メモです。 とある日の晩Reactチュートリアルを終えたばかりの友人に、簡単なTodoアプリの実装デモを通じてpropsとstateについて説明していたときのことです。useState APIの使い方を理解してもらうため、こんな感じのコードを書いて見せました。初期値に'洗濯物'を持つTodoリストで、ボタンを押すと'hoge'という項目が追加されるというものです。export const TodoList = () => {  const [todos, setTodos] = React.useState([\"洗濯物\"]);  const addT...",
