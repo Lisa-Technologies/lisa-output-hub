@@ -10,6 +10,18 @@
     },
     "items": [
         {
+            "url": "https://zenn.dev/ikenohi/articles/03d85bde5d7e6c",
+            "title": "【React】TailwindのclassNameを使ったSpacerコンポーネントを作りました",
+            "summary": "こちらの記事のアイデアを元にしたSpacerコンポーネントをよく使っていたのですが、Tailwindを採用したプロジェクトで使うときにSpacerの大きさがpx指定なのが気になったので、Tailwindで用意されたクラスを使うように作り直してみました。Spacer.tsximport { VFC } from \"react\";/** * Taileind fixed size list * @see https://tailwindcss.com/docs/height#fixed-heights */const TAILWIND_FIXED_SIZES = [  0...",
+            "date_modified": "2022-01-30T03:14:19.000Z"
+        },
+        {
+            "url": "https://zenn.dev/ikenohi/articles/df2bf0c990d99a",
+            "title": "今すぐTailwindでの開発を楽にするお手軽2ステップ",
+            "summary": "①Tailwind CSS IntelliSenseを入れて、素早い補完を手に入れるhttps://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcssVSCodeプラグイン。ただ入れるだけでも補完はされるが、補完のタイミングが遅い。下記の設定をsetting.jsonに記述することで常に候補を出してくれるようになる。\"editor.quickSuggestions\": {  \"strings\": true}文字を入力する前から補完が始まる ②eslint-plugin-tailw...",
+            "date_modified": "2022-01-29T10:13:19.000Z"
+        },
+        {
             "url": "https://zenn.dev/ikenohi/articles/b3f4aefb81732c",
             "title": "【Next.js】Notionのbookmarkみたいなコンポーネントを作りたい",
             "summary": "Notionでリンクを貼ったときに”Create bookmark”で作れるこれ、なんかかっこよくないですか？リンクからOGPデータを取得していい感じの見た目を表示するのをやってみたかったので、試しに実装してみることにしました。出来上がったものはこんな感じです。GitHubデモサイト最終的に使用した技術Next.js（Serverless Functions含む）TypeScriptTailwind CSSswrJSDOMReact Loading SkeletonVercel 型定義＆モックデータ作成最初にデザインから必要な情報を抽出し、その...",

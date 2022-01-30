@@ -4,11 +4,25 @@
         <title>Lisa Output Hub</title>
         <link>https://dev-blog.lisatech.jp/</link>
         <description>Lisa Technologies株式会社のメンバーの投稿が集まります</description>
-        <lastBuildDate>Sat, 29 Jan 2022 06:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 06:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
         <copyright>All rights reserved 2022, Lisa Technologies Inc</copyright>
+        <item>
+            <title><![CDATA[【React】TailwindのclassNameを使ったSpacerコンポーネントを作りました]]></title>
+            <link>https://zenn.dev/ikenohi/articles/03d85bde5d7e6c</link>
+            <guid>https://zenn.dev/ikenohi/articles/03d85bde5d7e6c</guid>
+            <pubDate>Sun, 30 Jan 2022 03:14:19 GMT</pubDate>
+            <description><![CDATA[こちらの記事のアイデアを元にしたSpacerコンポーネントをよく使っていたのですが、Tailwindを採用したプロジェクトで使うときにSpacerの大きさがpx指定なのが気になったので、Tailwindで用意されたクラスを使うように作り直してみました。Spacer.tsximport { VFC } from "react";/** * Taileind fixed size list * @see https://tailwindcss.com/docs/height#fixed-heights */const TAILWIND_FIXED_SIZES = [  0...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[今すぐTailwindでの開発を楽にするお手軽2ステップ]]></title>
+            <link>https://zenn.dev/ikenohi/articles/df2bf0c990d99a</link>
+            <guid>https://zenn.dev/ikenohi/articles/df2bf0c990d99a</guid>
+            <pubDate>Sat, 29 Jan 2022 10:13:19 GMT</pubDate>
+            <description><![CDATA[①Tailwind CSS IntelliSenseを入れて、素早い補完を手に入れるhttps://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcssVSCodeプラグイン。ただ入れるだけでも補完はされるが、補完のタイミングが遅い。下記の設定をsetting.jsonに記述することで常に候補を出してくれるようになる。"editor.quickSuggestions": {  "strings": true}文字を入力する前から補完が始まる ②eslint-plugin-tailw...]]></description>
+        </item>
         <item>
             <title><![CDATA[【Next.js】Notionのbookmarkみたいなコンポーネントを作りたい]]></title>
             <link>https://zenn.dev/ikenohi/articles/b3f4aefb81732c</link>
