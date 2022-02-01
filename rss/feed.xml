@@ -4,11 +4,18 @@
         <title>Lisa Output Hub</title>
         <link>https://dev-blog.lisatech.jp/</link>
         <description>Lisa Technologies株式会社のメンバーの投稿が集まります</description>
-        <lastBuildDate>Mon, 31 Jan 2022 06:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 06:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
         <copyright>All rights reserved 2022, Lisa Technologies Inc</copyright>
+        <item>
+            <title><![CDATA[顧客の声をプロダクトに反映したい！Productboardを触ってみた]]></title>
+            <link>https://zenn.dev/lisatech/articles/productboard</link>
+            <guid>https://zenn.dev/lisatech/articles/productboard</guid>
+            <pubDate>Tue, 01 Feb 2022 03:01:41 GMT</pubDate>
+            <description><![CDATA[概要こんにちは！Lisa Technologies インターンのなかがわはじめです！今回、弊社ではより一層顧客の声をプロダクトに反映していくため、Productboard というツールを導入することにしました！https://productboard.comこちらはアメリカの Saas ですが、Slack などとは違って日本ではまだまだ導入事例が多くないようですので、筆者が実際に Free Trial で触ってみてわかったことを記事に残そうと思います！ 課題意識弊社が Productboard の導入を決めた理由は、顧客の声をプロダクトに反映するフローが整っていなかった...]]></description>
+        </item>
         <item>
             <title><![CDATA[【React】TailwindのclassNameを使ったSpacerコンポーネントを作りました]]></title>
             <link>https://zenn.dev/ikenohi/articles/03d85bde5d7e6c</link>

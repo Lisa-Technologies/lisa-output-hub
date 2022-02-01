@@ -10,6 +10,12 @@
     },
     "items": [
         {
+            "url": "https://zenn.dev/lisatech/articles/productboard",
+            "title": "顧客の声をプロダクトに反映したい！Productboardを触ってみた",
+            "summary": "概要こんにちは！Lisa Technologies インターンのなかがわはじめです！今回、弊社ではより一層顧客の声をプロダクトに反映していくため、Productboard というツールを導入することにしました！https://productboard.comこちらはアメリカの Saas ですが、Slack などとは違って日本ではまだまだ導入事例が多くないようですので、筆者が実際に Free Trial で触ってみてわかったことを記事に残そうと思います！ 課題意識弊社が Productboard の導入を決めた理由は、顧客の声をプロダクトに反映するフローが整っていなかった...",
+            "date_modified": "2022-02-01T03:01:41.000Z"
+        },
+        {
             "url": "https://zenn.dev/ikenohi/articles/03d85bde5d7e6c",
             "title": "【React】TailwindのclassNameを使ったSpacerコンポーネントを作りました",
             "summary": "こちらの記事のアイデアを元にしたSpacerコンポーネントをよく使っていたのですが、Tailwindを採用したプロジェクトで使うときにSpacerの大きさがpx指定なのが気になったので、Tailwindで用意されたクラスを使うように作り直してみました。Spacer.tsximport { VFC } from \"react\";/** * Taileind fixed size list * @see https://tailwindcss.com/docs/height#fixed-heights */const TAILWIND_FIXED_SIZES = [  0...",
