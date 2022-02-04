@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dev-blog.lisatech.jp/</id>
     <title>Lisa Output Hub</title>
-    <updated>2022-02-03T06:19:20.800Z</updated>
+    <updated>2022-02-04T06:15:53.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Lisa Technologies Inc</name>
@@ -13,6 +13,13 @@
     <link rel="self" href="https://dev-blog.lisatech.jp//rss/atom.xml"/>
     <subtitle>Lisa Technologies株式会社のメンバーの投稿が集まります</subtitle>
     <rights>All rights reserved 2022, Lisa Technologies Inc</rights>
+    <entry>
+        <title type="html"><![CDATA[プロダクトをよくする為のプロセス構築実践話]]></title>
+        <id>https://zenn.dev/sintaro/articles/e4087299473308</id>
+        <link href="https://zenn.dev/sintaro/articles/e4087299473308"/>
+        <updated>2022-02-04T03:44:37.000Z</updated>
+        <summary type="html"><![CDATA[背景どうも、CPO 就任一発目の記事です。プロダクトへ更にコミットしていく所存です。#プロダクト #HIPHOP #釣りフリークの方々仲良くしてください @sintaro0221今回、本記事を書こうと思ったきっかけは、リードエンジニアの立場から CPO になった際の直近の業務変化と、業務がどこに向かってどんな課題を解こうとしているのか、整理と共有の為です。 これまでスタートアップということもあり領域問わず、立ちはだかる壁に多く取り組んで来ました（現在も絶賛奮闘中）以前は、エンジニアリングに着目した上でボトルネックとなりそうな課題に早めに意識を向けて取り組んでいました。目...]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[褒め殺して、アウトプット（を歓迎）する文化を作ろう！]]></title>
         <id>https://zenn.dev/lisatech/articles/emoji-thread-kill</id>
