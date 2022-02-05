@@ -30,7 +30,7 @@
         {
             "url": "https://zenn.dev/ikenohi/articles/03d85bde5d7e6c",
             "title": "【React】TailwindのclassNameを使ったSpacerコンポーネントを作りました",
-            "summary": "こちらの記事のアイデアを元にしたSpacerコンポーネントをよく使っていたのですが、Tailwindを採用したプロジェクトで使うときにSpacerの大きさがpx指定なのが気になったので、Tailwindで用意されたクラスを使うように作り直してみました。Spacer.tsximport { VFC } from \"react\";/** * Taileind fixed size list * @see https://tailwindcss.com/docs/height#fixed-heights */const TAILWIND_FIXED_SIZES = [  0...",
+            "summary": "こちらの記事のアイデアを元にしたSpacerコンポーネントをよく使っていたのですが、Tailwindを採用したプロジェクトで使うときにSpacerの大きさがpx指定なのが気になったので、Tailwindで用意されたクラスを使うように作り直してみました。Spacer.tsximport { VFC } from \"react\";type Size = typeof TAILWIND_SIZES_MAP[number][\"n\"];type Axis = \"vertical\" | \"horizontal\";interface SpacerProps {  size: Size...",
             "date_modified": "2022-01-30T03:14:19.000Z"
         },
         {

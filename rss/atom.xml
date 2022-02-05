@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dev-blog.lisatech.jp/</id>
     <title>Lisa Output Hub</title>
-    <updated>2022-02-04T06:15:53.280Z</updated>
+    <updated>2022-02-05T06:15:39.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Lisa Technologies Inc</name>
@@ -39,7 +39,7 @@
         <id>https://zenn.dev/ikenohi/articles/03d85bde5d7e6c</id>
         <link href="https://zenn.dev/ikenohi/articles/03d85bde5d7e6c"/>
         <updated>2022-01-30T03:14:19.000Z</updated>
-        <summary type="html"><![CDATA[こちらの記事のアイデアを元にしたSpacerコンポーネントをよく使っていたのですが、Tailwindを採用したプロジェクトで使うときにSpacerの大きさがpx指定なのが気になったので、Tailwindで用意されたクラスを使うように作り直してみました。Spacer.tsximport { VFC } from "react";/** * Taileind fixed size list * @see https://tailwindcss.com/docs/height#fixed-heights */const TAILWIND_FIXED_SIZES = [  0...]]></summary>
+        <summary type="html"><![CDATA[こちらの記事のアイデアを元にしたSpacerコンポーネントをよく使っていたのですが、Tailwindを採用したプロジェクトで使うときにSpacerの大きさがpx指定なのが気になったので、Tailwindで用意されたクラスを使うように作り直してみました。Spacer.tsximport { VFC } from "react";type Size = typeof TAILWIND_SIZES_MAP[number]["n"];type Axis = "vertical" | "horizontal";interface SpacerProps {  size: Size...]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[今すぐTailwindでの開発を楽にするお手軽2ステップ]]></title>
