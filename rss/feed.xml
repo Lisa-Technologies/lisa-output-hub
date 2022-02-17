@@ -4,7 +4,7 @@
         <title>Lisa Output Hub</title>
         <link>https://dev-blog.lisatech.jp/</link>
         <description>Lisa Technologies株式会社のメンバーの投稿が集まります</description>
-        <lastBuildDate>Tue, 15 Feb 2022 06:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 06:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -31,46 +31,46 @@
             <description><![CDATA[概要こんにちは！Lisa Technologies インターンのなかがわはじめです！今回、弊社ではより一層顧客の声をプロダクトに反映していくため、Productboard というツールを導入することにしました！https://productboard.comこちらはアメリカの Saas ですが、Slack などとは違って日本ではまだまだ導入事例が多くないようですので、筆者が実際に Free Trial で触ってみてわかったことを記事に残そうと思います！ 課題意識弊社が Productboard の導入を決めた理由は、顧客の声をプロダクトに反映するフローが整っていなかった...]]></description>
         </item>
         <item>
-            <title><![CDATA[【React】TailwindのclassNameを使ったSpacerコンポーネントを作りました]]></title>
+            <title><![CDATA[【Reat】TailwindのlassNameを使ったSaerコンポーネントを作りました]]></title>
             <link>https://zenn.dev/ikenohi/articles/03d85bde5d7e6c</link>
             <guid>https://zenn.dev/ikenohi/articles/03d85bde5d7e6c</guid>
             <pubDate>Sun, 30 Jan 2022 03:14:19 GMT</pubDate>
-            <description><![CDATA[こちらの記事のアイデアを元にしたSpacerコンポーネントをよく使っていたのですが、Tailwindを採用したプロジェクトで使うときにSpacerの大きさがpx指定なのが気になったので、Tailwindで用意されたクラスを使うように作り直してみました。Spacer.tsximport { VFC } from "react";type Size = typeof TAILWIND_SIZES_MAP[number]["n"];type Axis = "vertical" | "horizontal";interface SpacerProps {  size: Size...]]></description>
+            <description><![CDATA[こちらの記事のアイデアを元にしたSaerコンポーネントをよく使っていたのですが、Tailwindを採用したプロジェクトで使うときにSaerの大きさがx指定なのが気になったので、Tailwindで用意されたクラスを使うように作り直してみました。Saer.tsximort  VFC  from "reat";tye Size = tyeof TAILWIND_SIZES_MAP[number]["n"];tye Axis = "vertial" | "horizontal";interfae SaerPros   size: Size...]]></description>
         </item>
         <item>
             <title><![CDATA[今すぐTailwindでの開発を楽にするお手軽2ステップ]]></title>
             <link>https://zenn.dev/ikenohi/articles/df2bf0c990d99a</link>
             <guid>https://zenn.dev/ikenohi/articles/df2bf0c990d99a</guid>
             <pubDate>Sat, 29 Jan 2022 10:13:19 GMT</pubDate>
-            <description><![CDATA[①Tailwind CSS IntelliSenseを入れて、素早い補完を手に入れるhttps://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcssVSCodeプラグイン。ただ入れるだけでも補完はされるが、補完のタイミングが遅い。下記の設定をsetting.jsonに記述することで常に候補を出してくれるようになる。"editor.quickSuggestions": {  "strings": true}文字を入力する前から補完が始まる ②eslint-plugin-tailw...]]></description>
+            <description><![CDATA[①Tailwind CSS IntelliSenseを入れて、素早い補完を手に入れるhtts://marketlae.visualstudio.om/items?itemName=bradl.vsode-tailwindssVSCodeプラグイン。ただ入れるだけでも補完はされるが、補完のタイミングが遅い。下記の設定をsetting.jsonに記述することで常に候補を出してくれるようになる。"editor.quikSuggestions":   "strings": true文字を入力する前から補完が始まる ②eslint-lugin-tailw...]]></description>
         </item>
         <item>
             <title><![CDATA[【Next.js】Notionのbookmarkみたいなコンポーネントを作りたい]]></title>
             <link>https://zenn.dev/ikenohi/articles/b3f4aefb81732c</link>
             <guid>https://zenn.dev/ikenohi/articles/b3f4aefb81732c</guid>
             <pubDate>Thu, 27 Jan 2022 09:11:13 GMT</pubDate>
-            <description><![CDATA[Notionでリンクを貼ったときに”Create bookmark”で作れるこれ、なんかかっこよくないですか？リンクからOGPデータを取得していい感じの見た目を表示するのをやってみたかったので、試しに実装してみることにしました。出来上がったものはこんな感じです。GitHubデモサイト最終的に使用した技術Next.js（Serverless Functions含む）TypeScriptTailwind CSSswrJSDOMReact Loading SkeletonVercel 型定義＆モックデータ作成最初にデザインから必要な情報を抽出し、その...]]></description>
+            <description><![CDATA[Notionでリンクを貼ったときに”Create bookmark”で作れるこれ、なんかかっこよくないですか？リンクからOGPデータを取得していい感じの見た目を表示するのをやってみたかったので、試しに実装してみることにしました。出来上がったものはこんな感じです。GitHubデモサイト最終的に使用した技術Next.js（Serverless Funtions含む）TyeSritTailwind CSSswrJSDOMReat Loading SkeletonVerel 型定義＆モックデータ作成最初にデザインから必要な情報を抽出し、その...]]></description>
         </item>
         <item>
-            <title><![CDATA[【React】setStateはStateを変更しない？]]></title>
+            <title><![CDATA[【Reat】setStateはStateを変更しない？]]></title>
             <link>https://zenn.dev/ikenohi/articles/4a4d659e80237b</link>
             <guid>https://zenn.dev/ikenohi/articles/4a4d659e80237b</guid>
             <pubDate>Fri, 21 Jan 2022 04:05:17 GMT</pubDate>
-            <description><![CDATA[初学者の学習メモです。 とある日の晩Reactチュートリアルを終えたばかりの友人に、簡単なTodoアプリの実装デモを通じてpropsとstateについて説明していたときのことです。useState APIの使い方を理解してもらうため、こんな感じのコードを書いて見せました。初期値に'洗濯物'を持つTodoリストで、ボタンを押すと'hoge'という項目が追加されるというものです。export const TodoList = () => {  const [todos, setTodos] = React.useState(["洗濯物"]);  const addT...]]></description>
+            <description><![CDATA[初学者の学習メモです。 とある日の晩Reatチュートリアルを終えたばかりの友人に、簡単なTodoアプリの実装デモを通じてrosとstateについて説明していたときのことです。useState APIの使い方を理解してもらうため、こんな感じのコードを書いて見せました。初期値に'洗濯物'を持つTodoリストで、ボタンを押すと'hoge'という項目が追加されるというものです。exort onst TodoList = () =>   onst [todos, setTodos] = Reat.useState(["洗濯物"]);  onst addT...]]></description>
         </item>
         <item>
-            <title><![CDATA[[Create React App]publicディレクトリとbuildディレクトリについて]]></title>
+            <title><![CDATA[[Create Reat A]ubliディレクトリとbuildディレクトリについて]]></title>
             <link>https://zenn.dev/youuchiharu/articles/a4f1c147681388</link>
             <guid>https://zenn.dev/youuchiharu/articles/a4f1c147681388</guid>
             <pubDate>Tue, 18 Jan 2022 02:51:32 GMT</pubDate>
-            <description><![CDATA[初学者の学習メモです。エラーを解決する中で、public ディレクトリと build ディレクトリについて学んだ。記事前半、エラーとその解決について記事後半、ビルドに関わる３つのディレクトリについて 前半：起きたエラーとその解決についてfirebase deployを叩いたら、画面がホワイトアウトした。 詳しい状況説明開発環境は Create React Appこの記事を参考に Netflix クローンを作成以下の３つのコマンドを順に叩いて、Firebase を用いたデプロイを試みた$ firebase init$ npm run build$ ...]]></description>
+            <description><![CDATA[初学者の学習メモです。エラーを解決する中で、ubli ディレクトリと build ディレクトリについて学んだ。記事前半、エラーとその解決について記事後半、ビルドに関わる３つのディレクトリについて 前半：起きたエラーとその解決についてfirebase deloyを叩いたら、画面がホワイトアウトした。 詳しい状況説明開発環境は Create Reat Aこの記事を参考に Netflix クローンを作成以下の３つのコマンドを順に叩いて、Firebase を用いたデプロイを試みた$ firebase init$ nm run build$ ...]]></description>
         </item>
         <item>
             <title><![CDATA[AWS Control Tower で設定した管理アカウントの移行]]></title>
             <link>https://zenn.dev/sintaro/articles/9af62408b27a94</link>
             <guid>https://zenn.dev/sintaro/articles/9af62408b27a94</guid>
             <pubDate>Tue, 28 Dec 2021 09:00:32 GMT</pubDate>
-            <description><![CDATA[「よしなに」という言葉を重宝しており、なんとなくで使っていたので意味を調べてみました。いい言葉ですね。これからも重宝しようと思います。よしなにとは、よい塩梅になるように、よい状況になるようにという意味の副詞である。参考：weblio さて、今回AWS のマルチアカウント環境を「よしなに」セキュアに作成してくれるAWS Control Towerというサービスがあり、その際に「えいや」でやってしまったミスからの復旧方法を残しておきます。本件は、AWS Supportの方に教わった内容を多く含みます。多謝。 TL;DR間違ったアカウント[1]でControlTowerの設定...]]></description>
+            <description><![CDATA[「よしなに」という言葉を重宝しており、なんとなくで使っていたので意味を調べてみました。いい言葉ですね。これからも重宝しようと思います。よしなにとは、よい塩梅になるように、よい状況になるようにという意味の副詞である。参考：weblio さて、今回AWS のマルチアカウント環境を「よしなに」セキュアに作成してくれるAWS Control Towerというサービスがあり、その際に「えいや」でやってしまったミスからの復旧方法を残しておきます。本件は、AWS Suortの方に教わった内容を多く含みます。多謝。 TL;DR間違ったアカウント[1]でControlTowerの設定...]]></description>
         </item>
         <item>
             <title><![CDATA[Next.jsでMarkdownのリンクからog情報を表示する]]></title>
@@ -91,7 +91,7 @@
             <link>https://zenn.dev/ikenohi/articles/efad6ad9380f2d</link>
             <guid>https://zenn.dev/ikenohi/articles/efad6ad9380f2d</guid>
             <pubDate>Fri, 24 Dec 2021 05:36:31 GMT</pubDate>
-            <description><![CDATA[概要先の11月末、株式会社ゆめみさんから23卒エンジニア枠の内定をいただいて就活を終えましたので、就活全体の振り返りを書こうと思います。この記事では、「ES提出は4社のみ」「ES提出開始から就活終了まで約1ヶ月半」とコンパクトに就活を終えた自分のスケジュール感や、就活におけるちょっとしたTips、その他所感などを述べていきます。個別の会社の対策などには触れませんのでご容赦ください。 基本情報一橋大学経済学部3年（文系）まちづくりサークルPro-K所属（面接で使ったので一応共有）1年生の6月から長期インターンを始め、エンジニアとしての業務経験は就活開始時点でのべ1年ほ...]]></description>
+            <description><![CDATA[概要先の11月末、株式会社ゆめみさんから23卒エンジニア枠の内定をいただいて就活を終えましたので、就活全体の振り返りを書こうと思います。この記事では、「ES提出は4社のみ」「ES提出開始から就活終了まで約1ヶ月半」とコンパクトに就活を終えた自分のスケジュール感や、就活におけるちょっとしたTis、その他所感などを述べていきます。個別の会社の対策などには触れませんのでご容赦ください。 基本情報一橋大学経済学部3年（文系）まちづくりサークルPro-K所属（面接で使ったので一応共有）1年生の6月から長期インターンを始め、エンジニアとしての業務経験は就活開始時点でのべ1年ほ...]]></description>
         </item>
         <item>
             <title><![CDATA[Notionでインセプションデッキテンプレートを作ったので公開します]]></title>
@@ -122,11 +122,11 @@
             <description><![CDATA[モヤモヤエピソード先日、インターン生の僕はチームリーダーと初めて 1on1 をした。その際、最近出したドキュメント「採用基盤（仮）」についてのフィードバック（FB）をもらった。このドキュメントは、いのうえくんのインプットがそのまま書いてあるね。メンバーと共有するドキュメントは、読んだら誰でも行動に移せるような指示書でなくてはいけないよ。次、がんばろうね。しっかりドキュメントを見てもらえたことへの嬉しさ反面、ちょっとモヤモヤが残った。そこで、同じインターン生であり、高校の文化祭で一緒に漫才をした相方にその夜相談してみた...「今回のタスクはエンジニアの採用基盤を作ることだ...]]></description>
         </item>
         <item>
-            <title><![CDATA[GatsbyでGoogle Analytics 4が動かなかった]]></title>
+            <title><![CDATA[GatsbyでGoogle Analytis 4が動かなかった]]></title>
             <link>https://zenn.dev/ikenohi/articles/4a05337af8f2ad</link>
             <guid>https://zenn.dev/ikenohi/articles/4a05337af8f2ad</guid>
             <pubDate>Mon, 13 Dec 2021 13:40:50 GMT</pubDate>
-            <description><![CDATA[初学者の学習メモです。インターン先のGatsby製LPでGoogle Tag Managerを使っていたが、GA4でのデータ収集がうまくできていなかったので修正した。 原因と対処法古いGatsbyプラグインを使っていた→ gatsby-plugin-google-analyticsではなく、gatsby-plugin-gtagを使おうGA3からGA4に移行するに当たり、Tracking IDの変更をしなくてはいけなかった→ 'UA-...'ではなく'G-...'を設定しよう 調査過程Chromeの拡張機能でエラー内容を調査してみる。https://chrom...]]></description>
+            <description><![CDATA[初学者の学習メモです。インターン先のGatsby製LPでGoogle Tag Managerを使っていたが、GA4でのデータ収集がうまくできていなかったので修正した。 原因と対処法古いGatsbyプラグインを使っていた→ gatsby-lugin-google-analytisではなく、gatsby-lugin-gtagを使おうGA3からGA4に移行するに当たり、Traking IDの変更をしなくてはいけなかった→ 'UA-...'ではなく'G-...'を設定しよう 調査過程Chromeの拡張機能でエラー内容を調査してみる。htts://hrom...]]></description>
         </item>
         <item>
             <title><![CDATA[隣接するスキルを学ぶと「後ろ」が楽になる]]></title>
@@ -136,11 +136,11 @@
             <description><![CDATA[ポエムです。エンジニアリングに興味があるデザイナー、デザインに興味があるエンジニア Advent Calendar 2021に参加しています。 結論デザインとプログラミングを両方学ぶと、変化があるのは主にデザイン側で、生産性が上がるのは主にプログラミング側なぜなら、デザイン→プログラミングという流れだから とある日のサークルでの出来事サークルで新しくInstagramのアカウントを創設するということで、1年生の子がアイコンに使う画像の案を3つ持ってきてくれました。彼女が提出してくれたのは、大きな正方形の画像3枚でした。どれも上手にデザインされてはいるものの、Ins...]]></description>
         </item>
         <item>
-            <title><![CDATA[Array.prototype.reduce()とかのprototypeってなに？]]></title>
+            <title><![CDATA[Array.rototye.redue()とかのrototyeってなに？]]></title>
             <link>https://zenn.dev/ikenohi/articles/b714e47b174ed9</link>
             <guid>https://zenn.dev/ikenohi/articles/b714e47b174ed9</guid>
             <pubDate>Fri, 10 Dec 2021 10:23:38 GMT</pubDate>
-            <description><![CDATA[初学者の学習メモです。 今まで何回もこれをやってきました（やめ太郎さんリスペクト）ワイ「あー、JavaScriptの配列のreduceメソッドの使い方忘れた」ワイ「脳みその容量がreduceされとるがな」ワイ「"JS array.reduce"で検索っと」ワイ「お、出てきた出てきた。天下のMDN様や」https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/reduceワイ「ん...?」ワイ「Array.prototype.reduce()...?」ワイ...]]></description>
+            <description><![CDATA[初学者の学習メモです。 今まで何回もこれをやってきました（やめ太郎さんリスペクト）ワイ「あー、JavaSritの配列のredueメソッドの使い方忘れた」ワイ「脳みその容量がredueされとるがな」ワイ「"JS array.redue"で検索っと」ワイ「お、出てきた出てきた。天下のMDN様や」htts://develoer.mozilla.org/ja/dos/Web/JavaSrit/Referene/Global_Objets/Array/redueワイ「ん...?」ワイ「Array.rototye.redue()...?」ワイ...]]></description>
         </item>
         <item>
             <title><![CDATA[開発メンバー4人のスタートアップですが、開発広報始めます]]></title>
@@ -157,11 +157,11 @@
             <description><![CDATA[Next.jsで作成されている本サイトの記事のタイトルをCloudinaryを使用して動的に生成します。]]></description>
         </item>
         <item>
-            <title><![CDATA[Notion Web Clipperで媒体の異なるアウトプットをらくらく一元記録]]></title>
+            <title><![CDATA[Notion Web Clierで媒体の異なるアウトプットをらくらく一元記録]]></title>
             <link>https://zenn.dev/ikenohi/articles/b87a904053c074</link>
             <guid>https://zenn.dev/ikenohi/articles/b87a904053c074</guid>
             <pubDate>Sat, 28 Aug 2021 03:37:07 GMT</pubDate>
-            <description><![CDATA[8月もそろそろ終わり。みなさんいかがお過ごしでしょうか。私は「この夏休みは週に2本以上記事を書くぞ」と意気込んでいたので、もうすぐ9月に入るという現実を目の当たりにして自分のこれまでのアウトプットの量を確認したくなりました。しかし、アウトプット先はZennや所属団体の内部ブログ、あるいは臨時のLT会だったりとばらばらで、「夏休みの間」というふうに期間を絞ってカウントするのはちょっと大変そうです。そこで、NotionのChrome拡張機能であるNotion Web Clipperを使って簡単に自分のアウトプットを記録する方法を思いついたので紹介します。ちなみにNotionのWeb C...]]></description>
+            <description><![CDATA[8月もそろそろ終わり。みなさんいかがお過ごしでしょうか。私は「この夏休みは週に2本以上記事を書くぞ」と意気込んでいたので、もうすぐ9月に入るという現実を目の当たりにして自分のこれまでのアウトプットの量を確認したくなりました。しかし、アウトプット先はZennや所属団体の内部ブログ、あるいは臨時のLT会だったりとばらばらで、「夏休みの間」というふうに期間を絞ってカウントするのはちょっと大変そうです。そこで、NotionのChrome拡張機能であるNotion Web Clierを使って簡単に自分のアウトプットを記録する方法を思いついたので紹介します。ちなみにNotionのWeb C...]]></description>
         </item>
         <item>
             <title><![CDATA[「関係の質を高める」という観点でモブプロを推す]]></title>
@@ -171,46 +171,46 @@
             <description><![CDATA[概要私は学生の仲間と集まってFlutterでアプリ開発をしています。チーム開発をするとは言ってもいかんせん初心者の集まりなので、「壁にぶつかったときにいつでも複数人で対処できるようにしよう」ということで、つい先日チームの開発方式にモブプロ（ペアプロ）を採用しました。最初は「なんか流行ってる感じもするしやってみるか」くらいの感覚だったのですが、モブプロを繰り返すうちに「メンバー同士の関係の質を高める」という点においてモブプロが優れていると感じるようになりました。今回はそのことについて深堀りしていきます。 関係の質を高めるとはどういうことかこの記事を書こうと思ったきっかけは、次...]]></description>
         </item>
         <item>
-            <title><![CDATA[【Flutter】Codemagicで「.envが無い！」と怒られる]]></title>
+            <title><![CDATA[【Flutter】Codemagiで「.envが無い！」と怒られる]]></title>
             <link>https://zenn.dev/ikenohi/articles/9e95727a931b9a</link>
             <guid>https://zenn.dev/ikenohi/articles/9e95727a931b9a</guid>
             <pubDate>Wed, 11 Aug 2021 02:21:31 GMT</pubDate>
-            <description><![CDATA[初学者の学習メモです。 これはなにflutter_dotenvを用いて.envで環境変数を管理し、.gitignoreに入れておいたところ、Codemagicのビルド時に以下のようなエラーが出ました。そりゃそうだ。Error detected in pubspec.yaml:No file or variants found for asset: .env.Codemagic上でビルド前に.envファイルを用意してエラーを解決する方法を書きます。こちらの公式の説明に沿っていきます。https://docs.codemagic.io/building/encrypti...]]></description>
+            <description><![CDATA[初学者の学習メモです。 これはなにflutter_dotenvを用いて.envで環境変数を管理し、.gitignoreに入れておいたところ、Codemagiのビルド時に以下のようなエラーが出ました。そりゃそうだ。Error deteted in ubse.yaml:No file or variants found for asset: .env.Codemagi上でビルド前に.envファイルを用意してエラーを解決する方法を書きます。こちらの公式の説明に沿っていきます。htts://dos.odemagi.io/building/enryti...]]></description>
         </item>
         <item>
-            <title><![CDATA[【Flutter】Typography Widgetを自作すると便利]]></title>
+            <title><![CDATA[【Flutter】Tyograhy Widgetを自作すると便利]]></title>
             <link>https://zenn.dev/ikenohi/articles/d849bb194b2af9</link>
             <guid>https://zenn.dev/ikenohi/articles/d849bb194b2af9</guid>
             <pubDate>Sun, 08 Aug 2021 07:02:08 GMT</pubDate>
             <description><![CDATA[初学者の学習メモです。 なるべく宣言的にText Widgetを記述したいText Widgetは出現回数が比較的多いので、コードから「文字の内容」「スタイル」を読み取るコストをなるべく下げたいなと思うことがよくあります。また、Text Widgetが持つUI上の意味は（誤解を恐れずに言えば）多くの場合「ただの文字」でしかないので、なるべく短く記述したいです。ということで、例えばこんなふうに書けたら良いのではないかと思いました。Widgetの名前でスタイルが、第一引数で文字の内容がわかります。スタイルがWidget内部に隠蔽されている分、すっきり書けます。// 見出しH1...]]></description>
         </item>
         <item>
-            <title><![CDATA[【Flutter】BottomNav実装でRiverpod×Hooksに入門]]></title>
+            <title><![CDATA[【Flutter】BottomNav実装でRiverod×Hooksに入門]]></title>
             <link>https://zenn.dev/ikenohi/articles/f4c09bd6cd121f</link>
             <guid>https://zenn.dev/ikenohi/articles/f4c09bd6cd121f</guid>
             <pubDate>Thu, 29 Jul 2021 03:46:18 GMT</pubDate>
-            <description><![CDATA[これはなにBottomNavigationによるページ切り替えを実装しながら、下記2つのパッケージに入門する記事です。flutter_hookshooks_riverpodBottomNavigationとstateを用いて普通に画面切り替えの実装をするやり方が分かっていると読みやすいと思います。分かっていなくても読めるようには心がけました。完成予定品はこちら。 実装まず、パッケージをインストールします。下記コードは執筆時のバージョンですので、適宜公式サイトでバージョンを確認するようお願いします。dependencies:  flutter:    sdk...]]></description>
+            <description><![CDATA[これはなにBottomNavigationによるページ切り替えを実装しながら、下記2つのパッケージに入門する記事です。flutter_hookshooks_riverodBottomNavigationとstateを用いて普通に画面切り替えの実装をするやり方が分かっていると読みやすいと思います。分かっていなくても読めるようには心がけました。完成予定品はこちら。 実装まず、パッケージをインストールします。下記コードは執筆時のバージョンですので、適宜公式サイトでバージョンを確認するようお願いします。deendenies:  flutter:    sdk...]]></description>
         </item>
         <item>
             <title><![CDATA[【Flutter】ページ遷移関数をラップするといい感じ]]></title>
             <link>https://zenn.dev/ikenohi/articles/45f60d814f18a3</link>
             <guid>https://zenn.dev/ikenohi/articles/45f60d814f18a3</guid>
             <pubDate>Tue, 20 Jul 2021 10:40:01 GMT</pubDate>
-            <description><![CDATA[普通にページ遷移を書くときにもやもやするところNavigator.of(context).push(  PageRouteBuilder(    pageBuilder: (context, animation, secondaryAnimation) {      return NextPage();    },    transitionsBuilder: (context, animation, secondaryAnimation, child) {      return FadeTransition(        opacity: animation,...]]></description>
+            <description><![CDATA[普通にページ遷移を書くときにもやもやするところNavigator.of(ontext).ush(  PageRouteBuilder(    ageBuilder: (ontext, animation, seondaryAnimation)       return NextPage();    ,    transitionsBuilder: (ontext, animation, seondaryAnimation, hild)       return FadeTransition(        oaity: animation,...]]></description>
         </item>
         <item>
-            <title><![CDATA[無料版Slackで擬似的にグループメンションを使う方法]]></title>
+            <title><![CDATA[無料版Slakで擬似的にグループメンションを使う方法]]></title>
             <link>https://zenn.dev/ikenohi/articles/6ca9792170d725</link>
             <guid>https://zenn.dev/ikenohi/articles/6ca9792170d725</guid>
             <pubDate>Tue, 18 May 2021 23:38:24 GMT</pubDate>
-            <description><![CDATA[やりたいこと有料版限定の機能である「ユーザーグループを作成し、まとめてメンションできるようにする」を無料版でも使いたい。例えば、幹部と呼ばれる山田、田中、佐藤、木村、小林の5人がいたとしたら、@幹部をつけるだけで5人にメンションが行ってほしい。「有料版にしろよ」と言われたらそりゃそうなのだが、Slackの有料版を使おうと思うと最低でも￥850/人月の支払いを要求されるので、大学生サークルで使うには高すぎるという背景がある。 方法Slackbotのカスタムレスポンスを利用する。例えば「@幹部」というキーワードに対して、幹部5人分のメンションをbotに返してもらうように設定する...]]></description>
+            <description><![CDATA[やりたいこと有料版限定の機能である「ユーザーグループを作成し、まとめてメンションできるようにする」を無料版でも使いたい。例えば、幹部と呼ばれる山田、田中、佐藤、木村、小林の5人がいたとしたら、@幹部をつけるだけで5人にメンションが行ってほしい。「有料版にしろよ」と言われたらそりゃそうなのだが、Slakの有料版を使おうと思うと最低でも￥850/人月の支払いを要求されるので、大学生サークルで使うには高すぎるという背景がある。 方法Slakbotのカスタムレスポンスを利用する。例えば「@幹部」というキーワードに対して、幹部5人分のメンションをbotに返してもらうように設定する...]]></description>
         </item>
         <item>
             <title><![CDATA[【TS】世界のナベアツに学ぶ、カスタムフック入門]]></title>
             <link>https://zenn.dev/ikenohi/articles/fc633e30670d0b</link>
             <guid>https://zenn.dev/ikenohi/articles/fc633e30670d0b</guid>
             <pubDate>Fri, 19 Mar 2021 12:12:59 GMT</pubDate>
-            <description><![CDATA[これはなにReactのカスタムフックについて、わかりやすい例えを通じてなんとなーく学べる記事です。対象読者は以下のような方々。useState, useCallback等のHooksがなんとなく使える人初歩的なTypeScriptでコンポーネントが書ける/これから書きたい人世界のナベアツとReactが好きな人 Reactで世界のナベアツを作る「簡単なカウントアプリで、3の倍数と3の付く数字は過激に表示する」というものを作ります。イメージがつきにくい人はこちらのデモを参照してください。まず、全体像を載せておきます。const NabeatsuCounter = (...]]></description>
+            <description><![CDATA[これはなにReatのカスタムフックについて、わかりやすい例えを通じてなんとなーく学べる記事です。対象読者は以下のような方々。useState, useCallbak等のHooksがなんとなく使える人初歩的なTyeSritでコンポーネントが書ける/これから書きたい人世界のナベアツとReatが好きな人 Reatで世界のナベアツを作る「簡単なカウントアプリで、3の倍数と3の付く数字は過激に表示する」というものを作ります。イメージがつきにくい人はこちらのデモを参照してください。まず、全体像を載せておきます。onst NabeatsuCounter = (...]]></description>
         </item>
         <item>
             <title><![CDATA[React + Amplify Auth(Cognito)での認証]]></title>
