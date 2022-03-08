@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dev-blog.lisatech.jp/</id>
     <title>Lisa Output Hub</title>
-    <updated>2022-03-07T06:21:24.022Z</updated>
+    <updated>2022-03-08T06:20:42.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Lisa Technologies Inc</name>
@@ -13,6 +13,13 @@
     <link rel="self" href="https://dev-blog.lisatech.jp//rss/atom.xml"/>
     <subtitle>Lisa Technologies株式会社のメンバーの投稿が集まります</subtitle>
     <rights>All rights reserved 2022, Lisa Technologies Inc</rights>
+    <entry>
+        <title type="html"><![CDATA[【React】daisyUIを触ってみた！かなり楽しいw]]></title>
+        <id>https://zenn.dev/ikenohi/articles/596594edebb76f</id>
+        <link href="https://zenn.dev/ikenohi/articles/596594edebb76f"/>
+        <updated>2022-03-07T22:49:16.000Z</updated>
+        <summary type="html"><![CDATA[daisyUIとはThe most popular, free and open-source Tailwind CSS component libraryTailwind CSSをベースとしたCSSライブラリで、No JavaScriptでかわいくて機能的な見た目を実現できるスグレモノ。https://daisyui.com/Bootstrapのような使い勝手でいろんなコンポーネントを実現できる。実態はTailwind CSSなので拡張も簡単。今回はこちらのライブラリをReact（Next.js）で色々触ってみましたので、感想などをお伝えします。 なぜ興味を持っ...]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プロダクトをよくする為のプロセス構築実践話]]></title>
         <id>https://zenn.dev/sintaro/articles/e4087299473308</id>

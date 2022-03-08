@@ -10,6 +10,12 @@
     },
     "items": [
         {
+            "url": "https://zenn.dev/ikenohi/articles/596594edebb76f",
+            "title": "【React】daisyUIを触ってみた！かなり楽しいw",
+            "summary": "daisyUIとはThe most popular, free and open-source Tailwind CSS component libraryTailwind CSSをベースとしたCSSライブラリで、No JavaScriptでかわいくて機能的な見た目を実現できるスグレモノ。https://daisyui.com/Bootstrapのような使い勝手でいろんなコンポーネントを実現できる。実態はTailwind CSSなので拡張も簡単。今回はこちらのライブラリをReact（Next.js）で色々触ってみましたので、感想などをお伝えします。 なぜ興味を持っ...",
+            "date_modified": "2022-03-07T22:49:16.000Z"
+        },
+        {
             "url": "https://zenn.dev/sintaro/articles/e4087299473308",
             "title": "プロダクトをよくする為のプロセス構築実践話",
             "summary": "背景どうも、CPO 就任一発目の記事です。プロダクトへ更にコミットしていく所存です。#プロダクト #HIPHOP #釣りフリークの方々仲良くしてください @sintaro0221今回、本記事を書こうと思ったきっかけは、リードエンジニアの立場から CPO になった際の直近の業務変化と、業務がどこに向かってどんな課題を解こうとしているのか、整理と共有の為です。 これまでスタートアップということもあり領域問わず、立ちはだかる壁に多く取り組んで来ました（現在も絶賛奮闘中）以前は、エンジニアリングに着目した上でボトルネックとなりそうな課題に早めに意識を向けて取り組んでいました。目...",
