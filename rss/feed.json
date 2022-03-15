@@ -70,12 +70,6 @@
             "date_modified": "2021-12-28T09:00:32.000Z"
         },
         {
-            "url": "https://yutaaaaa.dev/ogp-embed",
-            "title": "Next.jsでMarkdownのリンクからog情報を表示する",
-            "summary": "個人ブログでの記事の表現を広げるためにリンクを貼った際にog情報が表示されるようにしました。Serverless Functionsを使用して実装しましたが、今後似たようなことで困った方が少しでも参考になるように書き残します。",
-            "date_modified": "2021-12-28T00:00:00.000Z"
-        },
-        {
             "url": "https://note.com/_sintaro0221_/n/n8814c7d4b6a9",
             "title": "旨すぎた！おすすめのふるさと納税返礼品[北海道白糠郡]",
             "summary": "チャーシュー盛りだな。と撮った後に思いました、、、作って、盛って、上げる(note)、ことは、フードデリバリーをされている飲食店の方々が料理をUber Eats等のプラットフォームに掲載する同じ流れですが見えてない様々なプロフェッショナルがあるんだなー、と改めて思いました（強引）続きをみる",
@@ -136,12 +130,6 @@
             "date_modified": "2021-12-01T03:24:20.000Z"
         },
         {
-            "url": "https://yutaaaaa.dev/cloudinary-dynamic",
-            "title": "Next.js製ブログ用のOGP画像をCloudinaryで動的に生成する",
-            "summary": "Next.jsで作成されている本サイトの記事のタイトルをCloudinaryを使用して動的に生成します。",
-            "date_modified": "2021-09-01T00:00:00.000Z"
-        },
-        {
             "url": "https://zenn.dev/ikenohi/articles/b87a904053c074",
             "title": "Notion Web Clipperで媒体の異なるアウトプットをらくらく一元記録",
             "summary": "8月もそろそろ終わり。みなさんいかがお過ごしでしょうか。私は「この夏休みは週に2本以上記事を書くぞ」と意気込んでいたので、もうすぐ9月に入るという現実を目の当たりにして自分のこれまでのアウトプットの量を確認したくなりました。しかし、アウトプット先はZennや所属団体の内部ブログ、あるいは臨時のLT会だったりとばらばらで、「夏休みの間」というふうに期間を絞ってカウントするのはちょっと大変そうです。そこで、NotionのChrome拡張機能であるNotion Web Clipperを使って簡単に自分のアウトプットを記録する方法を思いついたので紹介します。ちなみにNotionのWeb C...",
@@ -188,18 +176,6 @@
             "title": "【TS】世界のナベアツに学ぶ、カスタムフック入門",
             "summary": "これはなにReactのカスタムフックについて、わかりやすい例えを通じてなんとなーく学べる記事です。対象読者は以下のような方々。useState, useCallback等のHooksがなんとなく使える人初歩的なTypeScriptでコンポーネントが書ける/これから書きたい人世界のナベアツとReactが好きな人 Reactで世界のナベアツを作る「簡単なカウントアプリで、3の倍数と3の付く数字は過激に表示する」というものを作ります。イメージがつきにくい人はこちらのデモを参照してください。まず、全体像を載せておきます。const NabeatsuCounter = (...",
             "date_modified": "2021-03-19T12:12:59.000Z"
-        },
-        {
-            "url": "https://yutaaaaa.dev/amplify-authclass",
-            "title": "React + Amplify Auth(Cognito)での認証",
-            "summary": "Amplifyプロジェクトで使用していたAuth APIについてまとめました。自分でデザインしたUIでAuthを利用する際のTIPSを簡単に紹介します。",
-            "date_modified": "2020-10-27T00:00:00.000Z"
-        },
-        {
-            "url": "https://yutaaaaa.dev/starting-blog",
-            "title": "個人ブログを作成しました",
-            "summary": "自分の日常や技術的なこと・体験したことを文字で残すために個人ブログを作成しました。更新頻度は少なそうですが、自分のペースでぼちぼち書いていきます。",
-            "date_modified": "2020-09-24T00:00:00.000Z"
         }
     ]
 }
