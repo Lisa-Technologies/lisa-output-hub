@@ -10,6 +10,12 @@
     },
     "items": [
         {
+            "url": "https://zenn.dev/akusu/articles/182851e1f28cbd",
+            "title": "CentOS Stream9へSSL証明書取得(Let's Encrypt)",
+            "summary": "はじめに先日、レンタルサーバにSSLを設定して欲しいというお願いをされまして。そこら辺はじめてだったのと、昨今のレンタルサーバといえばワンクリックでSSLが導入できるものが多いこともあり、珍しいなあと思ったのでその際の手順をメモ書き程度に残しておこうと思います。（あらゆる説明、および証明書取得後のApacheの設定などは省きます）!cerbot公式を見ると、SystemからCentOS Stream9が選べないためサポート外かと思われます。導入の際は要検討。 手順EPELインストールsudo dnf config-manager --set-enabled c...",
+            "date_modified": "2022-04-01T08:05:47.000Z"
+        },
+        {
             "url": "https://zenn.dev/ikenohi/articles/596594edebb76f",
             "title": "【React】daisyUIを触ってみた！かなり楽しいw",
             "summary": "daisyUIとはThe most popular, free and open-source Tailwind CSS component libraryTailwind CSSをベースとしたCSSライブラリで、No JavaScriptでかわいくて機能的な見た目を実現できるスグレモノ。https://daisyui.com/Bootstrapのような使い勝手でいろんなコンポーネントを実現できる。実態はTailwind CSSなので拡張も簡単。今回はこちらのライブラリをReact（Next.js）で色々触ってみましたので、感想などをお伝えします。 なぜ興味を持っ...",
