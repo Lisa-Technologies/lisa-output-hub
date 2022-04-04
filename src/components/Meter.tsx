@@ -25,9 +25,8 @@ export const Meter: VFC<MeterProps> = ({ items }) => {
   const stumps = (num = 0) =>
     [...Array(4)].map((_, i) => <Stump isDone={i + num * 4 < n} />);
 
-  const emoji = (n: number) => {
-    return n <= 4 ? ["😅", "😃", "😏", "😘", "🤩"][n] : "🎉";
-  };
+  const emoji = (n: number) =>
+    n <= 4 ? ["😅", "😃", "😏", "😘", "🤩"][n] : "🎉";
 
   return (
     <section>
