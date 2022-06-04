@@ -45,27 +45,4 @@ export const members: Member[] = [
     githubUsername: "Yuta07",
     websiteUrl: "https://yutaaaaa.dev/",
   },
-  {
-    id: "hajimenakagawa",
-    name: "Hajime Nakagawa",
-    role: "Intern",
-    bio: "21年11月にジョインした当ブログの立ち上げ担当。フロントエンドの経験が長いですが、オンボーディングシステムを作ったりCSチームの情報設計をお手伝いしたりと幅広くやらせてもらってます。PM志望23卒。",
-    avatarSrc: "/avatars/hajime_nakagawa.jpg",
-    sources: ["https://zenn.dev/ikenohi/feed"],
-    twitterUsername: "hajixxnaka",
-    githubUsername: "HajimexxxNakagawa",
-    websiteUrl:
-      "https://www.notion.so/hjmnkgw/ff0979cf63834144935c6e83bbec9916",
-  },
-  {
-    id: "kosukeinoue",
-    name: "Kosuke Inoue",
-    role: "Intern",
-    bio: "2021年11月にフルリモートインターン生としてLisa Technologies（株）にジョイン。北の大地からバリューを出すべく、日々奔走する。休日は疲れた心をギターで癒やす。",
-    avatarSrc: "/avatars/kosuke_inoue.png",
-    sources: ["https://zenn.dev/youuchiharu/feed"],
-    twitterUsername: "youuchiharu",
-    githubUsername: "Kosuke2000",
-    websiteUrl: "https://hubcnavi.net/",
-  },
 ];
