@@ -10,6 +10,12 @@
     },
     "items": [
         {
+            "url": "https://yutaaaaa.dev/entry/slack-notification",
+            "title": "JavaScript（TS）で外部ソースからslackに通知する",
+            "summary": "slackのIncoming Webhookで外部ソースからの情報を簡単にワークスペースと共有する。",
+            "date_modified": "2022-05-27T00:00:00.000Z"
+        },
+        {
             "url": "https://zenn.dev/akusu/articles/182851e1f28cbd",
             "title": "CentOS Stream9へSSL証明書取得(Let's Encrypt)",
             "summary": "はじめに先日、レンタルサーバにSSLを設定して欲しいというお願いをされまして。そこら辺はじめてだったのと、昨今のレンタルサーバといえばワンクリックでSSLが導入できるものが多いこともあり、珍しいなあと思ったのでその際の手順をメモ書き程度に残しておこうと思います。（あらゆる説明、および証明書取得後のApacheの設定などは省きます）!cerbot公式を見ると、SystemからCentOS Stream9が選べないためサポート外かと思われます。導入の際は要検討。 手順EPELインストールsudo dnf config-manager --set-enabled c...",
@@ -40,6 +46,12 @@
             "date_modified": "2021-12-28T09:00:32.000Z"
         },
         {
+            "url": "https://yutaaaaa.dev/entry/ogp-embed",
+            "title": "Next.jsでMarkdownのリンクからog情報を表示する",
+            "summary": "Next.jsのServerless Functionsを使用してリンクを貼った際にog情報が表示されるようにする方法。",
+            "date_modified": "2021-12-28T00:00:00.000Z"
+        },
+        {
             "url": "https://note.com/_sintaro0221_/n/n8814c7d4b6a9",
             "title": "旨すぎた！おすすめのふるさと納税返礼品[北海道白糠郡]",
             "summary": "チャーシュー盛りだな。と撮った後に思いました、、、作って、盛って、上げる(note)、ことは、フードデリバリーをされている飲食店の方々が料理をUber Eats等のプラットフォームに掲載する同じ流れですが見えてない様々なプロフェッショナルがあるんだなー、と改めて思いました（強引）続きをみる",
@@ -62,6 +74,18 @@
             "title": "開発メンバー4人のスタートアップですが、開発広報始めます",
             "summary": "はじめまして！Lisa Technologies 株式会社エンジニアインターンのなかがわはじめと申します！この度、弊社ではエンジニア組織拡大のための開発広報の施策としてテックブログを始めることにいたしました！🎉https://dev-blog.lisatech.jp本稿ではテックブログのローンチを記念して、ブログを開始した経緯や少人数でブログを継続するための工夫についてお話できたらと思います！ 1.15 億円の資金調達！開発チームの拡大が急務に飲食店が運用するフードデリバリーの最適化を行うためのプロダクト「フードデリバリーマネージャー（FDM）」を開発する弊社では、2021 ...",
             "date_modified": "2021-12-01T03:24:20.000Z"
+        },
+        {
+            "url": "https://yutaaaaa.dev/entry/cloudinary-dynamic",
+            "title": "Next.js製ブログ用のOGP画像をCloudinaryで動的に生成する",
+            "summary": "Next.jsで作成されている当サイトの記事のタイトルをCloudinaryを使用して動的に生成する。",
+            "date_modified": "2021-09-01T00:00:00.000Z"
+        },
+        {
+            "url": "https://yutaaaaa.dev/entry/amplify-authclass",
+            "title": "React + Amplify Auth(Cognito)での認証",
+            "summary": "Amplifyプロジェクトで使用していたAuth APIについてまとめた。自分でデザインしたUIでAuthを利用する際のTIPSを簡単に紹介。",
+            "date_modified": "2020-10-27T00:00:00.000Z"
         }
     ]
 }

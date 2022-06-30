@@ -4,11 +4,18 @@
         <title>Lisa Output Hub</title>
         <link>https://dev-blog.lisatech.jp/</link>
         <description>Lisa Technologies株式会社のメンバーの投稿が集まります</description>
-        <lastBuildDate>Wed, 29 Jun 2022 06:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 06:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
         <copyright>All rights reserved 2022, Lisa Technologies Inc</copyright>
+        <item>
+            <title><![CDATA[JavaScript（TS）で外部ソースからslackに通知する]]></title>
+            <link>https://yutaaaaa.dev/entry/slack-notification</link>
+            <guid>https://yutaaaaa.dev/entry/slack-notification</guid>
+            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[slackのIncoming Webhookで外部ソースからの情報を簡単にワークスペースと共有する。]]></description>
+        </item>
         <item>
             <title><![CDATA[CentOS Stream9へSSL証明書取得(Let's Encrypt)]]></title>
             <link>https://zenn.dev/akusu/articles/182851e1f28cbd</link>
@@ -45,6 +52,13 @@
             <description><![CDATA[「よしなに」という言葉を重宝しており、なんとなくで使っていたので意味を調べてみました。いい言葉ですね。これからも重宝しようと思います。よしなにとは、よい塩梅になるように、よい状況になるようにという意味の副詞である。参考：weblio さて、今回AWS のマルチアカウント環境を「よしなに」セキュアに作成してくれるAWS Control Towerというサービスがあり、その際に「えいや」でやってしまったミスからの復旧方法を残しておきます。本件は、AWS Supportの方に教わった内容を多く含みます。多謝。 TL;DR間違ったアカウント[1]でControlTowerの設定...]]></description>
         </item>
         <item>
+            <title><![CDATA[Next.jsでMarkdownのリンクからog情報を表示する]]></title>
+            <link>https://yutaaaaa.dev/entry/ogp-embed</link>
+            <guid>https://yutaaaaa.dev/entry/ogp-embed</guid>
+            <pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Next.jsのServerless Functionsを使用してリンクを貼った際にog情報が表示されるようにする方法。]]></description>
+        </item>
+        <item>
             <title><![CDATA[旨すぎた！おすすめのふるさと納税返礼品[北海道白糠郡]]]></title>
             <link>https://note.com/_sintaro0221_/n/n8814c7d4b6a9</link>
             <guid>https://note.com/_sintaro0221_/n/n8814c7d4b6a9</guid>
@@ -71,6 +85,20 @@
             <guid>https://zenn.dev/lisatech/articles/launch-devrel</guid>
             <pubDate>Wed, 01 Dec 2021 03:24:20 GMT</pubDate>
             <description><![CDATA[はじめまして！Lisa Technologies 株式会社エンジニアインターンのなかがわはじめと申します！この度、弊社ではエンジニア組織拡大のための開発広報の施策としてテックブログを始めることにいたしました！🎉https://dev-blog.lisatech.jp本稿ではテックブログのローンチを記念して、ブログを開始した経緯や少人数でブログを継続するための工夫についてお話できたらと思います！ 1.15 億円の資金調達！開発チームの拡大が急務に飲食店が運用するフードデリバリーの最適化を行うためのプロダクト「フードデリバリーマネージャー（FDM）」を開発する弊社では、2021 ...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Next.js製ブログ用のOGP画像をCloudinaryで動的に生成する]]></title>
+            <link>https://yutaaaaa.dev/entry/cloudinary-dynamic</link>
+            <guid>https://yutaaaaa.dev/entry/cloudinary-dynamic</guid>
+            <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Next.jsで作成されている当サイトの記事のタイトルをCloudinaryを使用して動的に生成する。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[React + Amplify Auth(Cognito)での認証]]></title>
+            <link>https://yutaaaaa.dev/entry/amplify-authclass</link>
+            <guid>https://yutaaaaa.dev/entry/amplify-authclass</guid>
+            <pubDate>Tue, 27 Oct 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Amplifyプロジェクトで使用していたAuth APIについてまとめた。自分でデザインしたUIでAuthを利用する際のTIPSを簡単に紹介。]]></description>
         </item>
     </channel>
 </rss>
