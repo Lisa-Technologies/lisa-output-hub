@@ -4,11 +4,18 @@
         <title>Lisa Output Hub</title>
         <link>https://dev-blog.lisatech.jp/</link>
         <description>Lisa Technologies株式会社のメンバーの投稿が集まります</description>
-        <lastBuildDate>Thu, 30 Jun 2022 06:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 06:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
         <copyright>All rights reserved 2022, Lisa Technologies Inc</copyright>
+        <item>
+            <title><![CDATA[GitHub Actionsのドキュメントを読んで基本をまとめる]]></title>
+            <link>https://yutaaaaa.dev/entry/github-actions-beginning</link>
+            <guid>https://yutaaaaa.dev/entry/github-actions-beginning</guid>
+            <pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[初学者のためのGitHub Actions]]></description>
+        </item>
         <item>
             <title><![CDATA[JavaScript（TS）で外部ソースからslackに通知する]]></title>
             <link>https://yutaaaaa.dev/entry/slack-notification</link>

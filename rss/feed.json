@@ -10,6 +10,12 @@
     },
     "items": [
         {
+            "url": "https://yutaaaaa.dev/entry/github-actions-beginning",
+            "title": "GitHub Actionsのドキュメントを読んで基本をまとめる",
+            "summary": "初学者のためのGitHub Actions",
+            "date_modified": "2022-06-30T00:00:00.000Z"
+        },
+        {
             "url": "https://yutaaaaa.dev/entry/slack-notification",
             "title": "JavaScript（TS）で外部ソースからslackに通知する",
             "summary": "slackのIncoming Webhookで外部ソースからの情報を簡単にワークスペースと共有する。",
