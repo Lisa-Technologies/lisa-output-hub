@@ -10,6 +10,12 @@
     },
     "items": [
         {
+            "url": "https://yutaaaaa.dev/entry/github-actions-playwright",
+            "title": "GitHub ActionsでPlaywrightを動かす",
+            "summary": "PlaywrightをGitHub Actionsで動かせるようになるまで",
+            "date_modified": "2022-07-01T00:00:00.000Z"
+        },
+        {
             "url": "https://yutaaaaa.dev/entry/github-actions-beginning",
             "title": "GitHub Actionsのドキュメントを読んで基本をまとめる",
             "summary": "初学者のためのGitHub Actions",

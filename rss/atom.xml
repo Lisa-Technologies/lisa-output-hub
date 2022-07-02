@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dev-blog.lisatech.jp/</id>
     <title>Lisa Output Hub</title>
-    <updated>2022-07-01T06:23:23.190Z</updated>
+    <updated>2022-07-02T06:20:42.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Lisa Technologies Inc</name>
@@ -13,6 +13,13 @@
     <link rel="self" href="https://dev-blog.lisatech.jp//rss/atom.xml"/>
     <subtitle>Lisa Technologies株式会社のメンバーの投稿が集まります</subtitle>
     <rights>All rights reserved 2022, Lisa Technologies Inc</rights>
+    <entry>
+        <title type="html"><![CDATA[GitHub ActionsでPlaywrightを動かす]]></title>
+        <id>https://yutaaaaa.dev/entry/github-actions-playwright</id>
+        <link href="https://yutaaaaa.dev/entry/github-actions-playwright"/>
+        <updated>2022-07-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PlaywrightをGitHub Actionsで動かせるようになるまで]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Actionsのドキュメントを読んで基本をまとめる]]></title>
         <id>https://yutaaaaa.dev/entry/github-actions-beginning</id>
