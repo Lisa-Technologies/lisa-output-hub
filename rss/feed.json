@@ -10,6 +10,12 @@
     },
     "items": [
         {
+            "url": "https://yutaaaaa.dev/entry/web-components",
+            "title": "Web Components の基本とそれっぽいコンポーネント作成",
+            "summary": "Web Componentsの基本をまとめて、それっぽいコンポーネントを作成してみる",
+            "date_modified": "2022-07-18T00:00:00.000Z"
+        },
+        {
             "url": "https://yutaaaaa.dev/entry/github-actions-playwright",
             "title": "GitHub ActionsでPlaywrightを動かす",
             "summary": "PlaywrightをGitHub Actionsで動かせるようになるまで",

@@ -4,11 +4,18 @@
         <title>Lisa Output Hub</title>
         <link>https://dev-blog.lisatech.jp/</link>
         <description>Lisa Technologies株式会社のメンバーの投稿が集まります</description>
-        <lastBuildDate>Sun, 21 Aug 2022 06:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 06:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
         <copyright>All rights reserved 2022, Lisa Technologies Inc</copyright>
+        <item>
+            <title><![CDATA[Web Components の基本とそれっぽいコンポーネント作成]]></title>
+            <link>https://yutaaaaa.dev/entry/web-components</link>
+            <guid>https://yutaaaaa.dev/entry/web-components</guid>
+            <pubDate>Mon, 18 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Web Componentsの基本をまとめて、それっぽいコンポーネントを作成してみる]]></description>
+        </item>
         <item>
             <title><![CDATA[GitHub ActionsでPlaywrightを動かす]]></title>
             <link>https://yutaaaaa.dev/entry/github-actions-playwright</link>
