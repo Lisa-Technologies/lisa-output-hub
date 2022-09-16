@@ -4,7 +4,7 @@
         <title>Lisa Output Hub</title>
         <link>https://dev-blog.lisatech.jp/</link>
         <description>Lisa Technologies株式会社のメンバーの投稿が集まります</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:43:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 06:49:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -43,13 +43,6 @@
             <guid>https://zenn.dev/akusu/articles/182851e1f28cbd</guid>
             <pubDate>Fri, 01 Apr 2022 08:05:47 GMT</pubDate>
             <description><![CDATA[はじめに先日、レンタルサーバにSSLを設定して欲しいというお願いをされまして。そこら辺はじめてだったのと、昨今のレンタルサーバといえばワンクリックでSSLが導入できるものが多いこともあり、珍しいなあと思ったのでその際の手順をメモ書き程度に残しておこうと思います。（あらゆる説明、および証明書取得後のApacheの設定などは省きます）!cerbot公式を見ると、SystemからCentOS Stream9が選べないためサポート外かと思われます。導入の際は要検討。 手順EPELインストールsudo dnf config-manager --set-enabled c...]]></description>
-        </item>
-        <item>
-            <title><![CDATA[プロダクトをよくする為のプロセス構築実践話]]></title>
-            <link>https://zenn.dev/sintaro/articles/e4087299473308</link>
-            <guid>https://zenn.dev/sintaro/articles/e4087299473308</guid>
-            <pubDate>Fri, 04 Feb 2022 03:44:37 GMT</pubDate>
-            <description><![CDATA[背景どうも、CPO 就任一発目の記事です。プロダクトへ更にコミットしていく所存です。#プロダクト #HIPHOP #釣りフリークの方々仲良くしてください @sintaro0221今回、本記事を書こうと思ったきっかけは、リードエンジニアの立場から CPO になった際の直近の業務変化と、業務がどこに向かってどんな課題を解こうとしているのか、整理と共有の為です。 これまでスタートアップということもあり領域問わず、立ちはだかる壁に多く取り組んで来ました（現在も絶賛奮闘中）以前は、エンジニアリングに着目した上でボトルネックとなりそうな課題に早めに意識を向けて取り組んでいました。目...]]></description>
         </item>
         <item>
             <title><![CDATA[褒め殺して、アウトプット（を歓迎）する文化を作ろう！]]></title>
