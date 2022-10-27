@@ -10,25 +10,19 @@
     },
     "items": [
         {
-            "url": "https://yutaaaaa.dev/entry/web-components",
+            "url": "https://yutaaaaa.dev/blog/web-components",
             "title": "Web Components の基本とそれっぽいコンポーネント作成",
             "summary": "Web Componentsの基本をまとめて、それっぽいコンポーネントを作成してみる",
             "date_modified": "2022-07-18T00:00:00.000Z"
         },
         {
-            "url": "https://yutaaaaa.dev/entry/github-actions-playwright",
+            "url": "https://yutaaaaa.dev/blog/github-actions-playwright",
             "title": "GitHub ActionsでPlaywrightを動かす",
             "summary": "PlaywrightをGitHub Actionsで動かせるようになるまで",
             "date_modified": "2022-07-01T00:00:00.000Z"
         },
         {
-            "url": "https://yutaaaaa.dev/entry/github-actions-beginning",
-            "title": "GitHub Actionsのドキュメントを読んで基本をまとめる",
-            "summary": "初学者のためのGitHub Actions",
-            "date_modified": "2022-06-30T00:00:00.000Z"
-        },
-        {
-            "url": "https://yutaaaaa.dev/entry/slack-notification",
+            "url": "https://yutaaaaa.dev/blog/slack-notification",
             "title": "JavaScript（TS）で外部ソースからslackに通知する",
             "summary": "slackのIncoming Webhookで外部ソースからの情報を簡単にワークスペースと共有する。",
             "date_modified": "2022-05-27T00:00:00.000Z"
@@ -58,7 +52,7 @@
             "date_modified": "2021-12-28T09:00:32.000Z"
         },
         {
-            "url": "https://yutaaaaa.dev/entry/ogp-embed",
+            "url": "https://yutaaaaa.dev/blog/ogp-embed",
             "title": "Next.jsでMarkdownのリンクからog情報を表示する",
             "summary": "Next.jsのServerless Functionsを使用してリンクを貼った際にog情報が表示されるようにする方法。",
             "date_modified": "2021-12-28T00:00:00.000Z"
@@ -88,16 +82,10 @@
             "date_modified": "2021-12-01T03:24:20.000Z"
         },
         {
-            "url": "https://yutaaaaa.dev/entry/cloudinary-dynamic",
+            "url": "https://yutaaaaa.dev/blog/cloudinary-dynamic",
             "title": "Next.js製ブログ用のOGP画像をCloudinaryで動的に生成する",
             "summary": "Next.jsで作成されている当サイトの記事のタイトルをCloudinaryを使用して動的に生成する。",
             "date_modified": "2021-09-01T00:00:00.000Z"
-        },
-        {
-            "url": "https://yutaaaaa.dev/entry/amplify-authclass",
-            "title": "React + Amplify Auth(Cognito)での認証",
-            "summary": "Amplifyプロジェクトで使用していたAuth APIについてまとめた。自分でデザインしたUIでAuthを利用する際のTIPSを簡単に紹介。",
-            "date_modified": "2020-10-27T00:00:00.000Z"
         }
     ]
 }

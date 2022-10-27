@@ -4,36 +4,29 @@
         <title>Lisa Output Hub</title>
         <link>https://dev-blog.lisatech.jp/</link>
         <description>Lisa Technologies株式会社のメンバーの投稿が集まります</description>
-        <lastBuildDate>Wed, 26 Oct 2022 06:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 06:26:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
         <copyright>All rights reserved 2022, Lisa Technologies Inc</copyright>
         <item>
             <title><![CDATA[Web Components の基本とそれっぽいコンポーネント作成]]></title>
-            <link>https://yutaaaaa.dev/entry/web-components</link>
-            <guid>https://yutaaaaa.dev/entry/web-components</guid>
+            <link>https://yutaaaaa.dev/blog/web-components</link>
+            <guid>https://yutaaaaa.dev/blog/web-components</guid>
             <pubDate>Mon, 18 Jul 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Web Componentsの基本をまとめて、それっぽいコンポーネントを作成してみる]]></description>
         </item>
         <item>
             <title><![CDATA[GitHub ActionsでPlaywrightを動かす]]></title>
-            <link>https://yutaaaaa.dev/entry/github-actions-playwright</link>
-            <guid>https://yutaaaaa.dev/entry/github-actions-playwright</guid>
+            <link>https://yutaaaaa.dev/blog/github-actions-playwright</link>
+            <guid>https://yutaaaaa.dev/blog/github-actions-playwright</guid>
             <pubDate>Fri, 01 Jul 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[PlaywrightをGitHub Actionsで動かせるようになるまで]]></description>
         </item>
         <item>
-            <title><![CDATA[GitHub Actionsのドキュメントを読んで基本をまとめる]]></title>
-            <link>https://yutaaaaa.dev/entry/github-actions-beginning</link>
-            <guid>https://yutaaaaa.dev/entry/github-actions-beginning</guid>
-            <pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[初学者のためのGitHub Actions]]></description>
-        </item>
-        <item>
             <title><![CDATA[JavaScript（TS）で外部ソースからslackに通知する]]></title>
-            <link>https://yutaaaaa.dev/entry/slack-notification</link>
-            <guid>https://yutaaaaa.dev/entry/slack-notification</guid>
+            <link>https://yutaaaaa.dev/blog/slack-notification</link>
+            <guid>https://yutaaaaa.dev/blog/slack-notification</guid>
             <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[slackのIncoming Webhookで外部ソースからの情報を簡単にワークスペースと共有する。]]></description>
         </item>
@@ -67,8 +60,8 @@
         </item>
         <item>
             <title><![CDATA[Next.jsでMarkdownのリンクからog情報を表示する]]></title>
-            <link>https://yutaaaaa.dev/entry/ogp-embed</link>
-            <guid>https://yutaaaaa.dev/entry/ogp-embed</guid>
+            <link>https://yutaaaaa.dev/blog/ogp-embed</link>
+            <guid>https://yutaaaaa.dev/blog/ogp-embed</guid>
             <pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Next.jsのServerless Functionsを使用してリンクを貼った際にog情報が表示されるようにする方法。]]></description>
         </item>
@@ -102,17 +95,10 @@
         </item>
         <item>
             <title><![CDATA[Next.js製ブログ用のOGP画像をCloudinaryで動的に生成する]]></title>
-            <link>https://yutaaaaa.dev/entry/cloudinary-dynamic</link>
-            <guid>https://yutaaaaa.dev/entry/cloudinary-dynamic</guid>
+            <link>https://yutaaaaa.dev/blog/cloudinary-dynamic</link>
+            <guid>https://yutaaaaa.dev/blog/cloudinary-dynamic</guid>
             <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Next.jsで作成されている当サイトの記事のタイトルをCloudinaryを使用して動的に生成する。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[React + Amplify Auth(Cognito)での認証]]></title>
-            <link>https://yutaaaaa.dev/entry/amplify-authclass</link>
-            <guid>https://yutaaaaa.dev/entry/amplify-authclass</guid>
-            <pubDate>Tue, 27 Oct 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[Amplifyプロジェクトで使用していたAuth APIについてまとめた。自分でデザインしたUIでAuthを利用する際のTIPSを簡単に紹介。]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dev-blog.lisatech.jp/</id>
     <title>Lisa Output Hub</title>
-    <updated>2022-10-26T06:28:04.901Z</updated>
+    <updated>2022-10-27T06:26:09.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Lisa Technologies Inc</name>
@@ -15,29 +15,22 @@
     <rights>All rights reserved 2022, Lisa Technologies Inc</rights>
     <entry>
         <title type="html"><![CDATA[Web Components の基本とそれっぽいコンポーネント作成]]></title>
-        <id>https://yutaaaaa.dev/entry/web-components</id>
-        <link href="https://yutaaaaa.dev/entry/web-components"/>
+        <id>https://yutaaaaa.dev/blog/web-components</id>
+        <link href="https://yutaaaaa.dev/blog/web-components"/>
         <updated>2022-07-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Web Componentsの基本をまとめて、それっぽいコンポーネントを作成してみる]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub ActionsでPlaywrightを動かす]]></title>
-        <id>https://yutaaaaa.dev/entry/github-actions-playwright</id>
-        <link href="https://yutaaaaa.dev/entry/github-actions-playwright"/>
+        <id>https://yutaaaaa.dev/blog/github-actions-playwright</id>
+        <link href="https://yutaaaaa.dev/blog/github-actions-playwright"/>
         <updated>2022-07-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[PlaywrightをGitHub Actionsで動かせるようになるまで]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Actionsのドキュメントを読んで基本をまとめる]]></title>
-        <id>https://yutaaaaa.dev/entry/github-actions-beginning</id>
-        <link href="https://yutaaaaa.dev/entry/github-actions-beginning"/>
-        <updated>2022-06-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[初学者のためのGitHub Actions]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JavaScript（TS）で外部ソースからslackに通知する]]></title>
-        <id>https://yutaaaaa.dev/entry/slack-notification</id>
-        <link href="https://yutaaaaa.dev/entry/slack-notification"/>
+        <id>https://yutaaaaa.dev/blog/slack-notification</id>
+        <link href="https://yutaaaaa.dev/blog/slack-notification"/>
         <updated>2022-05-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[slackのIncoming Webhookで外部ソースからの情報を簡単にワークスペースと共有する。]]></summary>
     </entry>
@@ -71,8 +64,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Next.jsでMarkdownのリンクからog情報を表示する]]></title>
-        <id>https://yutaaaaa.dev/entry/ogp-embed</id>
-        <link href="https://yutaaaaa.dev/entry/ogp-embed"/>
+        <id>https://yutaaaaa.dev/blog/ogp-embed</id>
+        <link href="https://yutaaaaa.dev/blog/ogp-embed"/>
         <updated>2021-12-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Next.jsのServerless Functionsを使用してリンクを貼った際にog情報が表示されるようにする方法。]]></summary>
     </entry>
@@ -106,16 +99,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Next.js製ブログ用のOGP画像をCloudinaryで動的に生成する]]></title>
-        <id>https://yutaaaaa.dev/entry/cloudinary-dynamic</id>
-        <link href="https://yutaaaaa.dev/entry/cloudinary-dynamic"/>
+        <id>https://yutaaaaa.dev/blog/cloudinary-dynamic</id>
+        <link href="https://yutaaaaa.dev/blog/cloudinary-dynamic"/>
         <updated>2021-09-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Next.jsで作成されている当サイトの記事のタイトルをCloudinaryを使用して動的に生成する。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React + Amplify Auth(Cognito)での認証]]></title>
-        <id>https://yutaaaaa.dev/entry/amplify-authclass</id>
-        <link href="https://yutaaaaa.dev/entry/amplify-authclass"/>
-        <updated>2020-10-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Amplifyプロジェクトで使用していたAuth APIについてまとめた。自分でデザインしたUIでAuthを利用する際のTIPSを簡単に紹介。]]></summary>
     </entry>
 </feed>
